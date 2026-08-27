@@ -1,0 +1,1926 @@
+[
+  {
+    "section": "hotel-bao-cao",
+    "items": [
+      {
+        "slug": "bao-cao",
+        "title": "Báo cáo",
+        "topic": "`Báo cáo`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-bao-cao/bao-cao/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Báo cáo(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungHệ thống báo cáo của KiotViet Hotel là công cụ quản trị mạnh mẽ, giúp bạn nắm bắt toàn diện tình hình kinh"
+      },
+      {
+        "slug": "tong-quan",
+        "title": "Tổng quan",
+        "topic": "`Tổng quan`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-bao-cao/tong-quan/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tổng quan(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Tổng quan là màn hình đầu tiên bạn nhìn thấy khi đăng nhập vào hệ thống KiotViet Hotel. Đây là"
+      }
+    ]
+  },
+  {
+    "section": "hotel-cap-nhat-dat-phong",
+    "items": [
+      {
+        "slug": "cap-nhat-dat-phong",
+        "title": "Cập nhật Đặt phòng",
+        "topic": "`Cập nhật Đặt phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-cap-nhat-dat-phong/cap-nhat-dat-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Cập nhật Đặt phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTrong vận hành khách sạn, việc thay đổi yêu cầu từ phía khách hàng như đổi phòng, gia hạn thời"
+      },
+      {
+        "slug": "huy-dat-phong",
+        "title": "Hủy đặt phòng",
+        "topic": "`Hủy đặt phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-cap-nhat-dat-phong/huy-dat-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Hủy đặt phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTrong quá trình vận hành, việc khách hàng thay đổi kế hoạch và hủy đặt phòng là điều không thể tránh"
+      }
+    ]
+  },
+  {
+    "section": "hotel-channel-manager",
+    "items": [
+      {
+        "slug": "channel-manager",
+        "title": "Channel Manager - Tích hợp kênh OTAs",
+        "topic": "`Kết nối OTAs`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-channel-manager/channel-manager/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Channel Manager - Tích hợp kênh OTAs(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungHiện nay, việc bán phòng trên các kênh OTAs như Booking.com, Agoda,"
+      },
+      {
+        "slug": "danh-sach-kenh-otas-kiotviet-da-ket-noi",
+        "title": "Danh sách OTAs KiotViet Đã hỗ trợ kết nối Channel Manager",
+        "topic": "`Danh sách kênh OTAs KiotViet đã kết nối Channel Manager`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-channel-manager/danh-sach-kenh-otas-kiotviet-da-ket-noi/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Danh sách OTAs KiotViet Đã hỗ trợ kết nối Channel Manager(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungMột số lượng lớn khách du lịch đặt phòng qua các kênh OTA"
+      }
+    ]
+  },
+  {
+    "section": "hotel-chung-tu-dien-tu-phieu-xuat-kho",
+    "items": [
+      {
+        "slug": "lap-to-khai-dang-ky-thay-doi-thong-tin-su-dung-chung-tu-dien-tu",
+        "title": "Lập tờ khai đăng ký/thay đổi thông tin sử dụng chứng từ điện tử",
+        "topic": "`Lập tờ khai đăng ký/thay đổi thông tin sử dụng chứng từ điện tử`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-chung-tu-dien-tu-phieu-xuat-kho/lap-to-khai-dang-ky-thay-doi-thong-tin-su-dung-chung-tu-dien-tu/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Lập tờ khai đăng ký/thay đổi thông tin sử dụng chứng từ điện tử(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng cho phép người nộp thuế lập và nộp tờ"
+      }
+    ]
+  },
+  {
+    "section": "hotel-cskh",
+    "items": [
+      {
+        "slug": "email-xac-nhan-dat-phong",
+        "title": "Email Xác nhận đặt phòng",
+        "topic": "`Email Xác nhận đặt phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-cskh/email-xac-nhan-dat-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Email Xác nhận đặt phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungKiotViet hỗ trợ tính năng gửi email tự động giúp khách sạn gửi thông báo xác nhận khi"
+      },
+      {
+        "slug": "tin-nhan-zalo",
+        "title": "Tin nhắn ZNS",
+        "topic": "`Tin nhắn ZNS`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-cskh/tin-nhan-zalo/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "not detected"
+      }
+    ]
+  },
+  {
+    "section": "hotel-dang-ky-chu-ky-so",
+    "items": [
+      {
+        "slug": "dang-ky-chu-ky-so-kiotviet-intrustca",
+        "title": "Đăng ký Chữ ký số KiotViet IntrustCA",
+        "topic": "`Đăng ký Chữ ký số KiotViet IntrustCA`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-dang-ky-chu-ky-so/dang-ky-chu-ky-so-kiotviet-intrustca/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Đăng ký Chữ ký số KiotViet IntrustCA(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungChữ ký số là điều kiện cần thiết để các chủ khách sạn, nhà nghỉ (Hộ kinh"
+      },
+      {
+        "slug": "thong-bao-va-khai-bao-gia-han-chung-thu-so",
+        "title": "Thông báo và khai báo gia hạn chứng thư số",
+        "topic": "`Thông báo và khai báo gia hạn chứng thư số`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-dang-ky-chu-ky-so/thong-bao-va-khai-bao-gia-han-chung-thu-so/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thông báo và khai báo gia hạn chứng thư số(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng này giúp tự động nhắc nhở trước khi chứng thư số hết hạn,"
+      }
+    ]
+  },
+  {
+    "section": "hotel-dat-phong",
+    "items": [
+      {
+        "slug": "quan-ly-dat-phong",
+        "title": "Quản lý Đặt phòng",
+        "topic": "`Quản lý Đặt phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-dat-phong/quan-ly-dat-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Đặt phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Quản lý đặt phòng giúp chủ khách sạn, nhà nghỉ và nhân viên lễ tân nắm bắt toàn diện"
+      },
+      {
+        "slug": "tinh-nang-thue-thang",
+        "title": "Tính năng Thuê tháng",
+        "topic": "`Tính năng Thuê tháng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-dat-phong/tinh-nang-thue-thang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tính năng Thuê tháng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNgoài các hình thức lưu trú ngắn hạn theo giờ, ngày hoặc đêm, nhiều cơ sở lưu trú hiện nay"
+      }
+    ]
+  },
+  {
+    "section": "hotel-dat-phong-online",
+    "items": [
+      {
+        "slug": "dat-phong-online",
+        "title": "Đặt phòng Online",
+        "topic": "`Đặt phòng Online`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-dat-phong-online/dat-phong-online/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Đặt phòng Online(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Đặt phòng Online cung cấp cho khách sạn một đường link (liên kết) hoặc mã QR để chia sẻ"
+      }
+    ]
+  },
+  {
+    "section": "hotel-facebook-pos",
+    "items": [
+      {
+        "slug": "facebook-fanpage",
+        "title": "Kết nối Fanpage Facebook",
+        "topic": "`Facebook Fanpage`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-facebook-pos/facebook-fanpage/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Kết nối Fanpage Facebook(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng quản lý Facebook Fanpage trên KiotViet giúp chủ khách sạn và nhân viên lễ"
+      }
+    ]
+  },
+  {
+    "section": "hotel-gia-phong",
+    "items": [
+      {
+        "slug": "quan-ly-hang-phong-phong",
+        "title": "Quản lý Hạng phòng/Phòng",
+        "topic": "`Quản lý Hạng phòng/Phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-gia-phong/quan-ly-hang-phong-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Hạng phòng/Phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Quản lý Hạng phòng/Phòng giúp bạn thiết lập \"khung xương\" cho hệ thống khách"
+      },
+      {
+        "slug": "thiet-lap-bang-gia-phong",
+        "title": "Thiết lập chính sách giá phòng",
+        "topic": "`Thiết lập chính sách giá`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-gia-phong/thiet-lap-bang-gia-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thiết lập chính sách giá phòng(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Cài đặt bảng giá phòng giúp khách sạn thiết lập, quản lý và áp dụng giá"
+      }
+    ]
+  },
+  {
+    "section": "hotel-giao-dich",
+    "items": [
+      {
+        "slug": "hoa-don",
+        "title": "Hóa đơn",
+        "topic": "`Hóa đơn`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-giao-dich/hoa-don/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Hóa đơn(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungQuản lý hóa đơn là nghiệp vụ sau cùng của một giao dịch, giúp khách sạn lưu trữ lịch sử thanh toán, đối"
+      },
+      {
+        "slug": "quan-ly-chi-phi-nhap-hang",
+        "title": "Quản lý chi phí nhập hàng",
+        "topic": "`Quản lý chi phí nhập hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-giao-dich/quan-ly-chi-phi-nhap-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý chi phí nhập hàng (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Trong hoạt động quản lý khách sạn, khi nhập các loại vật tư (chăn ga, đồ tiêu hao"
+      },
+      {
+        "slug": "tra-hang-nhap",
+        "title": "Trả hàng nhập",
+        "topic": "`Trả hàng nhập`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-giao-dich/tra-hang-nhap/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Trả hàng nhập(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTrong quá trình vận hành khách sạn, việc nhập các loại vật tư, thực phẩm hay đồ uống minibar đôi khi"
+      }
+    ]
+  },
+  {
+    "section": "hotel-hang-hoa",
+    "items": [
+      {
+        "slug": "hang-dich-vu",
+        "title": "Quản lý Hàng dịch vụ",
+        "topic": "`Quản lý Hàng dịch vụ`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-hang-hoa/hang-dich-vu/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Hàng dịch vụ(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungViệc tạo và quản lý các dịch vụ trên KiotViet Hotel giúp khách sạn vận hành chuyên nghiệp và"
+      },
+      {
+        "slug": "hang-hoa-thuong",
+        "title": "Quản lý sản phẩm",
+        "topic": "`Quản lý sản phẩm`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-hang-hoa/hang-hoa-thuong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý sản phẩm(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTrong mô hình khách sạn, bên cạnh kinh doanh phòng nghỉ, việc quản lý các sản phẩm hàng hóa bán"
+      },
+      {
+        "slug": "kiem-kho",
+        "title": "Kiểm kho",
+        "topic": "`Kiểm kho`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-hang-hoa/kiem-kho/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Kiểm kho (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Kiểm kho là hoạt động định kỳ thiết yếu trong vận hành khách sạn nhằm đối chiếu số lượng thực tế của"
+      }
+    ]
+  },
+  {
+    "section": "hotel-he-thong-giai-phap-kiotviet",
+    "items": [
+      {
+        "slug": "tong-quan-cac-nhom-giai-phap-kiotviet",
+        "title": "Tổng quan các nhóm giải pháp KiotViet",
+        "topic": "`​Tổng quan các nhóm giải pháp KiotViet`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-he-thong-giai-phap-kiotviet/tong-quan-cac-nhom-giai-phap-kiotviet/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tổng quan các nhóm giải pháp KiotViet(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chung Chào mừng bạn đến với Trang Hướng dẫn sử dụng KiotViet dành cho ngành kinh"
+      }
+    ]
+  },
+  {
+    "section": "hotel-ke-toan-hkd-giao-dich",
+    "items": [
+      {
+        "slug": "quan-ly-mua-hang",
+        "title": "Quản lý Mua hàng",
+        "topic": "`Quản lý Mua hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-giao-dich/quan-ly-mua-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Mua hàng(Phần mềm Kế toán Hộ kinh doanh - Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTheo quy định tại Nghị định số 68/2026/NĐ‑CP của Chính phủ quy"
+      },
+      {
+        "slug": "quan-ly-thu-chi",
+        "title": "Quản lý Thu - Chi",
+        "topic": "`Quản lý Thu`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-giao-dich/quan-ly-thu-chi/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Thu - Chi(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTheo quy định tại Nghị định số 68/2026/NĐ‑CP của Chính phủ quy định về chính sách thuế và quản"
+      }
+    ]
+  },
+  {
+    "section": "hotel-ke-toan-hkd-hach-toan",
+    "items": [
+      {
+        "slug": "bang-ke-02-tndn",
+        "title": "Bảng kê 02/TNDN",
+        "topic": "`Bảng kê 02/TNDN`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-hach-toan/bang-ke-02-tndn/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bảng kê 02/TNDN(Phần mềm Kế toán Hộ kinh doanh - Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTheo quy định tại Nghị định số 68/2026/NĐ‑CP của Chính phủ quy"
+      },
+      {
+        "slug": "hach-toan-nghiep-vu-khac-phieu-ke-toan-tong-hop",
+        "title": "Hạch toán Nghiệp vụ khác (Phiếu Kế toán tổng hợp)",
+        "topic": "`Hạch toán Nghiệp vụ khác (Phiếu Kế toán tổng hợp)`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-hach-toan/hach-toan-nghiep-vu-khac-phieu-ke-toan-tong-hop/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Hạch toán Nghiệp vụ khác (Phiếu Kế toán tổng hợp)(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTheo quy định tại Nghị định số 68/2026/NĐ‑CP của Chính phủ quy"
+      },
+      {
+        "slug": "quan-ly-chi-phi-nhan-su",
+        "title": "Quản lý Chi phí nhân sự",
+        "topic": "`Quản lý Chi phí nhân sự`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-hach-toan/quan-ly-chi-phi-nhan-su/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Chi phí nhân sự(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTheo quy định tại Nghị định số 68/2026/NĐ‑CP của Chính phủ quy định về chính sách thuế và"
+      },
+      {
+        "slug": "quan-ly-cong-cu-dung-cu-dich-vu",
+        "title": "Quản lý Công cụ dụng cụ & Dịch vụ",
+        "topic": "`Quản lý Công cụ dụng cụ & Dịch vụ`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-hach-toan/quan-ly-cong-cu-dung-cu-dich-vu/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Công cụ dụng cụ & Dịch vụ(Phần mềm Kế toán Hộ kinh doanh - Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTheo quy định tại Nghị định số 68/2026/NĐ‑CP"
+      },
+      {
+        "slug": "quan-ly-tai-san-co-dinh",
+        "title": "Quản lý Tài sản cố định",
+        "topic": "`Quản lý Tài sản cố định`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-hach-toan/quan-ly-tai-san-co-dinh/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Tài sản cố định(Phần mềm Kế toán Hộ kinh doanh - Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTheo quy định tại Nghị định số 68/2026/NĐ‑CP của Chính phủ"
+      }
+    ]
+  },
+  {
+    "section": "hotel-ke-toan-hkd-so-ke-toan",
+    "items": [
+      {
+        "slug": "cap-nhat-du-lieu-dieu-chinh-tren-so-ke-toan",
+        "title": "Cập nhật dữ liệu điều chỉnh trên Sổ kế toán",
+        "topic": "`Cập nhật dữ liệu điều chỉnh trên Sổ kế toán`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-so-ke-toan/cap-nhat-du-lieu-dieu-chinh-tren-so-ke-toan/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Cập nhật dữ liệu điều chỉnh trên Sổ kế toán(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng quản lý và đồng bộ Sổ kế toán, Tờ khai thuế giúp cửa hàng và"
+      },
+      {
+        "slug": "so-ke-toan",
+        "title": "Sổ kế toán (Theo TT152 - Hiệu lực từ 2026)",
+        "topic": "`Sổ kế toán`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ke-toan-hkd-so-ke-toan/so-ke-toan/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Sổ kế toán (Theo TT152 - Hiệu lực từ 2026)(Ngành Dịch vụ lưu trú) I. Giới thiệu chung1. Giới thiệu tổng quan tính năngTính năng Sổ kế toán giúp các hộ kinh"
+      }
+    ]
+  },
+  {
+    "section": "hotel-kenh-ban",
+    "items": [
+      {
+        "slug": "quan-ly-kenh-ban",
+        "title": "Quản lý kênh bán",
+        "topic": "`Quản lý kênh bán`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-kenh-ban/quan-ly-kenh-ban/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý kênh bán(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Quản lý kênh bán giúp khách sạn, nhà nghỉ kiểm soát tập trung toàn bộ các nguồn khách"
+      }
+    ]
+  },
+  {
+    "section": "hotel-ket-ca",
+    "items": [
+      {
+        "slug": "ket-ca",
+        "title": "Kết ca",
+        "topic": "`Kết ca`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ket-ca/ket-ca/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Kết ca(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Kết ca trên KiotViet Hotel là công cụ đắc lực giúp chủ khách sạn và quản lý giám sát chặt chẽ"
+      }
+    ]
+  },
+  {
+    "section": "hotel-ket-noi-api",
+    "items": [
+      {
+        "slug": "ket-noi-api",
+        "title": "Kết nối API",
+        "topic": "`Kết nối API`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ket-noi-api/ket-noi-api/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Kết nối API(Ngành Khách sạn, Nhà nghỉ)​​Nội dung hướng dẫn trong bài viết này được thực hiện trên giao diện mới. Để tham khảo hướng dẫn trên giao diện cũ, vui"
+      },
+      {
+        "slug": "thiet-lap-webhook",
+        "title": "Thiết lập Webhook",
+        "topic": "`Thiết lập Webhook`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ket-noi-api/thiet-lap-webhook/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thiết lập Webhook(Ngành Khách sạn, Nhà nghỉ)​​Nội dung hướng dẫn trong bài viết này được thực hiện trên giao diện mới. Để tham khảo hướng dẫn trên giao diện cũ,"
+      }
+    ]
+  },
+  {
+    "section": "hotel-ket-noi-kiotviet-fnb",
+    "items": [
+      {
+        "slug": "tich-hop-nha-hang-khach-san",
+        "title": "Tích hợp Nhà hàng - Khách sạn",
+        "topic": "`​Tích hợp Nhà hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-ket-noi-kiotviet-fnb/tich-hop-nha-hang-khach-san/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tích hợp Nhà hàng - Khách sạn(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Tích hợp Nhà hàng - Khách sạn giúp kết nối dữ liệu giữa chi nhánh KiotViet"
+      }
+    ]
+  },
+  {
+    "section": "hotel-khach-hang",
+    "items": [
+      {
+        "slug": "quan-ly-khach-hang",
+        "title": "Quản lý Khách hàng",
+        "topic": "`Quản lý Khách hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-khach-hang/quan-ly-khach-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Khách hàng(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungQuản lý khách hàng là nghiệp vụ then chốt giúp khách sạn xây dựng tệp khách hàng trung thành,"
+      }
+    ]
+  },
+  {
+    "section": "hotel-khai-bao-luu-tru",
+    "items": [
+      {
+        "slug": "danh-sach-khach-luu-tru",
+        "title": "Danh sách khách lưu trú",
+        "topic": "`Danh sách khách lưu trú`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-khai-bao-luu-tru/danh-sach-khach-luu-tru/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Danh sách khách lưu trú(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Quản lý danh sách khách lưu trú giúp cơ sở lưu trú theo dõi tập trung thông tin"
+      },
+      {
+        "slug": "khai-bao-luu-tru-tren-trang-web-chinh-thuc-cua-bo-cong-an",
+        "title": "Khai báo lưu trú trên trang web chính thức của Bộ Công an",
+        "topic": "`Khai báo lưu trú trên trang web chính thức của Bộ Công an`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-khai-bao-luu-tru/khai-bao-luu-tru-tren-trang-web-chinh-thuc-cua-bo-cong-an/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Khai báo lưu trú trên trang web chính thức của Bộ Công an (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungKể từ ngày 21/5/2026, Bộ Công an chính thức đưa vào sử"
+      }
+    ]
+  },
+  {
+    "section": "hotel-khoi-tao-gian-hang",
+    "items": [
+      {
+        "slug": "dang-nhap",
+        "title": "Đăng nhập",
+        "topic": "`Đăng nhập`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-khoi-tao-gian-hang/dang-nhap/",
+        "duplicateOf": "",
+        "description": "Đăng nhập(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungHệ thống quản lý khách sạn KiotViet cung cấp quy trình đăng nhập linh hoạt và bảo mật, giúp bạn dễ dàng"
+      }
+    ]
+  },
+  {
+    "section": "hotel-kiotviet-web",
+    "items": [
+      {
+        "slug": "website-khach-san",
+        "title": "Website khách sạn",
+        "topic": "`Website khách sạn`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-kiotviet-web/website-khach-san/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Website khách sạn(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTình huống: Khi bạn muốn mở rộng kênh bán hàng, tối ưu mục tiêu bán hàng đa kênh mà không tốn chi"
+      }
+    ]
+  },
+  {
+    "section": "hotel-lam-quen-voi-kiotviet",
+    "items": [
+      {
+        "slug": "buoc-1-khoi-tao-du-lieu",
+        "title": "Bước 1: Khởi tạo dữ liệu",
+        "topic": "`Bước 1`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/buoc-1-khoi-tao-du-lieu/",
+        "duplicateOf": "",
+        "description": "Bước 1: Khởi tạo dữ liệu(Làm quen Phần mềm KiotViet - Ngành Dịch vụ lưu trú)I. Giới thiệu chungQuy trình khởi tạo dữ liệu ban đầu là bước thiết yếu trong việc"
+      },
+      {
+        "slug": "buoc-2-dat-phong",
+        "title": "Bước 2 - Đặt phòng",
+        "topic": "`Bước 2`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/buoc-2-dat-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bước 2 - Đặt phòng(Làm quen Phần mềm KiotViet - Ngành Dịch vụ lưu trú) I. Giới thiệu chungQuy trình đặt phòng là một trong những nghiệp vụ lễ tân cơ bản và quan"
+      },
+      {
+        "slug": "buoc-3-nhan-phong",
+        "title": "Bước 3 - Nhận phòng",
+        "topic": "`Bước 3`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/buoc-3-nhan-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bước 3 - Nhận phòng(Làm quen Phần mềm KiotViet - Ngành Dịch vụ lưu trú) I. Giới thiệu chungQuy trình nhận phòng (check-in) là một nghiệp vụ vô cùng quan trọng"
+      },
+      {
+        "slug": "buoc-4-tra-phong",
+        "title": "Bước 4 - Trả phòng",
+        "topic": "`Bước 4`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/buoc-4-tra-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bước 4 - Trả phòng(Làm quen Phần mềm KiotViet - Ngành Dịch vụ lưu trú) I. Giới thiệu chungQuy trình trả phòng (check-out) là bước cuối cùng trong chu trình lưu"
+      },
+      {
+        "slug": "buoc-5-trang-thai-phong",
+        "title": "Bước 5 - Trạng thái phòng",
+        "topic": "`Bước 5`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/buoc-5-trang-thai-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bước 5 - Trạng thái phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungQuy trình quản lý trạng thái buồng phòng là một nghiệp vụ quan trọng trong vận hành"
+      },
+      {
+        "slug": "buoc-6-bao-cao",
+        "title": "Bước 6 - Báo cáo",
+        "topic": "`Bước 6`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/buoc-6-bao-cao/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bước 6 - Báo cáo(Làm quen Phần mềm KiotViet - Ngành Dịch vụ lưu trú) I. Giới thiệu chungSau khi thực hiện các nghiệp vụ lễ tân, việc nắm bắt các loại báo cáo là"
+      },
+      {
+        "slug": "dang-ky-tai-khoan",
+        "title": "Đăng ký tài khoản",
+        "topic": "`Đăng ký tài khoản`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/dang-ky-tai-khoan/",
+        "duplicateOf": "",
+        "description": "not detected"
+      },
+      {
+        "slug": "tong-quan-cac-buoc-lam-quen-kiotviet",
+        "title": "Tổng quan các bước làm quen KiotViet",
+        "topic": "`Tổng quan các bước làm quen KiotViet`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lam-quen-voi-kiotviet/tong-quan-cac-buoc-lam-quen-kiotviet/",
+        "duplicateOf": "",
+        "description": "Tổng quan các bước làm quen KiotViet(Làm quen Phần mềm KiotViet - Ngành Dịch vụ lưu trú) I. Giới thiệu chungChào mừng Quý khách đã đến với KiotViet! KiotViet"
+      }
+    ]
+  },
+  {
+    "section": "hotel-lich-ical",
+    "items": [
+      {
+        "slug": "ket-noi-lich-otas",
+        "title": "Kết nối OTAs - Lịch iCal",
+        "topic": "`Kết nối OTAs`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-lich-ical/ket-noi-lich-otas/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Kết nối OTAs - Lịch iCal(Ngành Dịch vụ lưu trú - Homestay) I. Giới thiệu chungTính năng này cho phép bạn tự động đồng bộ lịch đặt phòng giữa KiotViet và các nền"
+      }
+    ]
+  },
+  {
+    "section": "hotel-nha-cung-cap",
+    "items": [
+      {
+        "slug": "quan-ly-nha-cung-cap",
+        "title": "Quản lý Nhà cung cấp",
+        "topic": "`Quản lý Nhà cung cấp`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-nha-cung-cap/quan-ly-nha-cung-cap/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Nhà cung cấp(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungQuản lý Nhà cung cấp là tính năng giúp chủ khách sạn lưu trữ và tổ chức thông tin của các đơn"
+      }
+    ]
+  },
+  {
+    "section": "hotel-nhan-phong",
+    "items": [
+      {
+        "slug": "nhan-phong",
+        "title": "Nhận phòng",
+        "topic": "`Nhận phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-nhan-phong/nhan-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Nhận phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNhận phòng là bước quan trọng nhất trong quy trình phục vụ, nơi lễ tân chính thức bàn giao phòng cho"
+      }
+    ]
+  },
+  {
+    "section": "hotel-nhan-vien",
+    "items": [
+      {
+        "slug": "khoi-tao-du-lieu-quan-ly-nhan-vien",
+        "title": "Khởi tạo dữ liệu Quản lý Nhân viên",
+        "topic": "`Khởi tạo dữ liệu Quản lý Nhân viên`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-nhan-vien/khoi-tao-du-lieu-quan-ly-nhan-vien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Khởi tạo dữ liệu Quản lý Nhân viên(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Khởi tạo dữ liệu Quản lý Nhân viên đóng vai trò như một luồng dẫn dắt"
+      },
+      {
+        "slug": "quan-ly-cham-cong",
+        "title": "Quản lý Chấm công",
+        "topic": "`Quản lý Chấm công`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-nhan-vien/quan-ly-cham-cong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Chấm công(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Quản lý Chấm công trên KiotViet giúp chủ khách sạn theo dõi và quản lý thời gian làm"
+      },
+      {
+        "slug": "quan-ly-nhan-vien",
+        "title": "Quản lý Nhân viên",
+        "topic": "`Quản lý Nhân viên`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-nhan-vien/quan-ly-nhan-vien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Nhân viên(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Quản lý Nhân viên trên KiotViet Hotel giúp chủ khách sạn quản lý danh sách nhân sự một"
+      },
+      {
+        "slug": "quan-ly-tinh-luong",
+        "title": "Quản lý tính lương",
+        "topic": "`Quản lý Tính lương`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-nhan-vien/quan-ly-tinh-luong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý tính lương(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Quản lý tính lương trên KiotViet Hotel giúp chủ khách sạn tự động hóa và quản lý quy"
+      },
+      {
+        "slug": "zalo-mini-app-kiotviet-nhan-vien",
+        "title": "Zalo Mini App – KiotViet Nhân viên",
+        "topic": "`Zalo Mini App`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-nhan-vien/zalo-mini-app-kiotviet-nhan-vien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Zalo Mini App – KiotViet Nhân viên(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungZalo Mini App – KiotViet Nhân viên là giải pháp quản lý thu nhập và công việc"
+      }
+    ]
+  },
+  {
+    "section": "hotel-phat-hanh-hddt",
+    "items": [
+      {
+        "slug": "bang-ke-tong-hop-hoa-don-dien-tu",
+        "title": "Bảng kê tổng hợp hóa đơn điện tử",
+        "topic": "`Bảng kê tổng hợp hóa đơn điện tử`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-phat-hanh-hddt/bang-ke-tong-hop-hoa-don-dien-tu/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bảng kê tổng hợp hóa đơn điện tử(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Báo cáo cung cấp 4 loại bảng kê hóa đơn điện tử phục vụ kê khai thuế,"
+      },
+      {
+        "slug": "lap-hoa-don-ban-hang-tu-may-tinh-tien",
+        "title": "Lập hóa đơn bán hàng từ máy tính tiền",
+        "topic": "`Lập hóa đơn bán hàng từ máy tính tiền`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-phat-hanh-hddt/lap-hoa-don-ban-hang-tu-may-tinh-tien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Lập hóa đơn bán hàng từ máy tính tiền(Ngành Khách sạn, Nhà nghỉ - Dành cho Hộ Kinh Doanh / Doanh nghiệp) I. Giới thiệu chung1. Phân biệt HĐĐT thông thường và"
+      },
+      {
+        "slug": "lap-hoa-don-gtgt-thong-thuong",
+        "title": "Lập hóa đơn GTGT (Thông thường)",
+        "topic": "`Lập hóa đơn GTGT (Thông thường)`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-phat-hanh-hddt/lap-hoa-don-gtgt-thong-thuong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Lập hóa đơn GTGT (Thông thường)(Ngành Khách sạn, Nhà nghỉ - Dành cho Doanh nghiệp) I. Giới thiệu chung1. Phân biệt HĐĐT thông thường và HĐĐT từ máy tính"
+      },
+      {
+        "slug": "lap-hoa-don-gtgt-tu-may-tinh-tien",
+        "title": "Lập hóa đơn GTGT từ máy tính tiền",
+        "topic": "`Lập hóa đơn GTGT từ máy tính tiền`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-phat-hanh-hddt/lap-hoa-don-gtgt-tu-may-tinh-tien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Lập hóa đơn GTGT từ máy tính tiền(Ngành Khách sạn, Nhà nghỉ - Dành cho Doanh nghiệp) I. Giới thiệu chung1. Phân biệt HĐĐT thông thường và HĐĐT từ máy tính"
+      },
+      {
+        "slug": "phat-hanh-hoa-don-dien-tu-tren-kiotviet",
+        "title": "Phát hành Hóa đơn điện tử trên KiotViet",
+        "topic": "`Phát hành Hóa đơn điện tử trên KiotViet`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-phat-hanh-hddt/phat-hanh-hoa-don-dien-tu-tren-kiotviet/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Phát hành Hóa đơn điện tử trên KiotViet(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Phát hành Hóa đơn điện tử (HĐĐT) trên KiotViet là giải pháp hỗ"
+      },
+      {
+        "slug": "quan-ly-danh-muc-hang-hoa-tren-kiotviet-einvoice",
+        "title": "Quản lý danh mục hàng hóa trên KiotViet eInvoice",
+        "topic": "`Quản lý danh mục hàng hóa trên KiotViet eInvoice`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-phat-hanh-hddt/quan-ly-danh-muc-hang-hoa-tren-kiotviet-einvoice/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý danh mục hàng hóa trên KiotViet eInvoice(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungModule Quản lý danh mục hàng hóa cho phép người dùng lưu trữ, tra"
+      },
+      {
+        "slug": "quan-ly-danh-muc-khach-hang-tren-kiotviet-einvoice",
+        "title": "Quản lý danh mục khách hàng trên KiotViet eInvoice",
+        "topic": "`Quản lý danh mục khách hàng trên KiotViet eInvoice (Hotel)`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-phat-hanh-hddt/quan-ly-danh-muc-khach-hang-tren-kiotviet-einvoice/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý danh mục khách hàng trên KiotViet eInvoice(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungChức năng quản lý danh mục Khách hàng cho phép người dùng lưu"
+      }
+    ]
+  },
+  {
+    "section": "hotel-quan-ly-the-tu",
+    "items": [
+      {
+        "slug": "quan-ly-the-tu",
+        "title": "Tích hợp thẻ từ",
+        "topic": "`Quản lý thẻ từ`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-quan-ly-the-tu/quan-ly-the-tu/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tích hợp thẻ từ(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng tích hợp quản lý thẻ từ (thẻ phòng) trên KiotViet Hotel giúp các chủ cơ sở lưu trú dễ"
+      }
+    ]
+  },
+  {
+    "section": "hotel-so-quy",
+    "items": [
+      {
+        "slug": "so-quy",
+        "title": "Sổ quỹ",
+        "topic": "`Sổ quỹ`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-so-quy/so-quy/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Sổ quỹ(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Sổ quỹ giúp chủ khách sạn và kế toán nắm bắt chính xác dòng tiền thực tế của cơ sở kinh doanh. Hệ"
+      }
+    ]
+  },
+  {
+    "section": "hotel-thanh-toan",
+    "items": [
+      {
+        "slug": "quan-ly-thu-khac",
+        "title": "Quản lý Thu khác",
+        "topic": "`Quản lý Thu khác`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/quan-ly-thu-khac/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Thu khác(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTrong vận hành khách sạn, ngoài tiền phòng và dịch vụ cơ bản, thường phát sinh các khoản chi phí"
+      },
+      {
+        "slug": "thanh-toan-qua-bidv",
+        "title": "Thanh toán qua BIDV",
+        "topic": "`Thanh toán qua BIDV`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-bidv/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua BIDV(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNhằm hỗ trợ các khách sạn, nhà nghỉ thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp"
+      },
+      {
+        "slug": "thanh-toan-qua-qr",
+        "title": "Thanh toán qua QR",
+        "topic": "`Thanh toán qua QR`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-qr/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua QR(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungKiotViet hỗ trợ tính năng thanh toán bằng mã QR, giúp quy trình thanh toán tại cửa hàng của bạn"
+      },
+      {
+        "slug": "thanh-toan-qua-sacombank",
+        "title": "Thanh toán qua Sacombank",
+        "topic": "`Thanh toán qua Sacombank`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-sacombank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua Sacombank(Ngành Dịch vụ lưu trú) I. Giới thiệu chungNhằm hỗ trợ các khách sạn, nhà nghỉ thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp"
+      },
+      {
+        "slug": "thanh-toan-qua-vi-dien-tu-momo",
+        "title": "Thanh toán qua Ví điện tử MoMo",
+        "topic": "`Thanh toán qua Ví điện tử MoMo`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-vi-dien-tu-momo/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua Ví điện tử MoMo(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNhằm hỗ trợ các khách sạn, nhà nghỉ thúc đẩy việc thanh toán phi tiền mặt, KiotViet"
+      },
+      {
+        "slug": "thanh-toan-qua-vib",
+        "title": "Thanh toán qua VIB",
+        "topic": "`Thanh toán qua VIB`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-vib/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua VIB(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNhằm hỗ trợ các khách sạn, nhà nghỉ thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp"
+      },
+      {
+        "slug": "thanh-toan-qua-vietcombank",
+        "title": "Thanh toán qua Vietcombank",
+        "topic": "`Thanh toán qua Vietcombank`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-vietcombank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua Vietcombank(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNhằm hỗ trợ các khách sạn, nhà nghỉ thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết"
+      },
+      {
+        "slug": "thanh-toan-qua-vietinbank",
+        "title": "Thanh toán qua VietinBank",
+        "topic": "`Thanh toán qua VietinBank`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-vietinbank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua VietinBank(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNhằm hỗ trợ các khách sạn, nhà nghỉ thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết"
+      },
+      {
+        "slug": "thanh-toan-qua-vpbank",
+        "title": "Thanh toán qua VPBank",
+        "topic": "`Thanh toán qua VPBank`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan-qua-vpbank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán qua VPBank(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungNhằm hỗ trợ các khách sạn, nhà nghỉ thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp"
+      },
+      {
+        "slug": "thanh-toan",
+        "title": "Thanh toán",
+        "topic": "`Thanh toán`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thanh-toan/thanh-toan/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thanh toán(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Thanh toán là nghiệp vụ cuối cùng và quan trọng nhất để hoàn tất quy trình phục vụ khách hàng"
+      }
+    ]
+  },
+  {
+    "section": "hotel-thiet-bi-phan-cung",
+    "items": [
+      {
+        "slug": "kiotviet-hardware-manager",
+        "title": "KiotViet Hardware Manager",
+        "topic": "`KiotViet Hardware Manager`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/kiotviet-hardware-manager/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "KiotViet Hardware Manager(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung1. Mục đích sử dụngKhi bạn sử dụng các thiết bị phần cứng như máy in hóa đơn, máy quét"
+      },
+      {
+        "slug": "loa-thong-bao-thanh-toan-qr-dong-kv66",
+        "title": "Loa thông báo thanh toán QR động KV66",
+        "topic": "`Loa thông báo thanh toán QR động KV66`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/loa-thong-bao-thanh-toan-qr-dong-kv66/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Loa thông báo thanh toán QR động KV66(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để cài đặt và sử dụng thiết bị Loa"
+      },
+      {
+        "slug": "man-hinh-hien-thi-qr",
+        "title": "Màn Hình Hiển Thị QR",
+        "topic": "`Màn Hình Hiển Thị QR`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/man-hinh-hien-thi-qr/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Màn Hình Hiển Thị QR(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để cài đặt và sử dụng các dòng màn hình hiển thị mã"
+      },
+      {
+        "slug": "may-cham-cong",
+        "title": "Máy chấm công",
+        "topic": "`Máy chấm công`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/may-cham-cong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Máy chấm công(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungHiện tại, KiotViet đang hỗ trợ các dòng máy chấm công như: Ronald Jack UA200, Ronald Jack DG-600ID,"
+      },
+      {
+        "slug": "may-in-hoa-don",
+        "title": "Máy In Hóa Đơn",
+        "topic": "`Máy In Hóa Đơn`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/may-in-hoa-don/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Máy In Hóa Đơn(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để lắp đặt và thiết lập các dòng máy in hóa đơn nhiệt phổ"
+      },
+      {
+        "slug": "may-in-tem-ma",
+        "title": "Máy in tem mã",
+        "topic": "`Máy in tem mã`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/may-in-tem-ma/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Máy in tem mã(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để lắp đặt và thiết lập dòng Máy in tem mã nhiệt 365B phổ"
+      },
+      {
+        "slug": "may-quet-ma-vach",
+        "title": "Máy Quét Mã Vạch",
+        "topic": "`Máy Quét Mã Vạch`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/may-quet-ma-vach/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Máy Quét Mã Vạch(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để lắp đặt và sử dụng các dòng máy qu&é;t m&ã; vạch do"
+      },
+      {
+        "slug": "ngan-keo-dung-tien",
+        "title": "Ngăn Kéo Đựng Tiền",
+        "topic": "`Ngăn Kéo Đựng Tiền`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-bi-phan-cung/ngan-keo-dung-tien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Ngăn Kéo Đựng Tiền(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để kết nối và sử dụng ngăn kéo đựng tiền chuyên dụng"
+      }
+    ]
+  },
+  {
+    "section": "hotel-thiet-lap",
+    "items": [
+      {
+        "slug": "cai-dat-thong-bao-tren-dien-thoai",
+        "title": "Cài đặt thông báo trên điện thoại",
+        "topic": "`Cài đặt thông báo trên điện thoại`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap/cai-dat-thong-bao-tren-dien-thoai/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Cài đặt thông báo trên điện thoại (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Tính năng Cài đặt thông báo trên ứng dụng KiotViet Hotel là công cụ hỗ trợ đắc"
+      },
+      {
+        "slug": "gioi-thieu-khach-hang",
+        "title": "Giới thiệu Khách hàng",
+        "topic": "`Giới thiệu khách hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap/gioi-thieu-khach-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Giới thiệu Khách hàng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng này cho phép các khách hàng đang sử dụng KiotViet giới thiệu khách hàng mới và"
+      },
+      {
+        "slug": "phan-quyen-truy-cap",
+        "title": "Phân quyền truy cập",
+        "topic": "`Phân quyền truy cập`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap/phan-quyen-truy-cap/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Phân quyền truy cập (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Tính năng Phân quyền truy cập giúp chủ khách sạn quản lý chặt chẽ đội ngũ nhân sự, đảm bảo"
+      },
+      {
+        "slug": "quan-ly-chi-nhanh",
+        "title": "Quản lý Chi nhánh",
+        "topic": "`Quản lý Chi nhánh`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap/quan-ly-chi-nhanh/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Chi nhánh (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Tính năng Quản lý chi nhánh giúp các chủ khách sạn sở hữu chuỗi cơ sở kinh doanh dễ dàng kiểm"
+      },
+      {
+        "slug": "quan-ly-mau-in",
+        "title": "Quản lý mẫu in",
+        "topic": "`Quản lý mẫu in`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap/quan-ly-mau-in/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý mẫu in(Ngành Khách sạn, Nhà nghỉ)I. Giới thiệu chungTính năng Quản lý mẫu in giúp chủ khách sạn tự do thiết kế và tùy chỉnh các loại chứng từ như Hóa"
+      },
+      {
+        "slug": "thiet-lap-cua-hang",
+        "title": "Thiết lập cửa hàng",
+        "topic": "`Thiết lập cửa hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap/thiet-lap-cua-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thiết lập cửa hàng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Thiết lập cửa hàng là \"trung tâm điều khiển\" giúp chủ khách sạn cấu hình toàn bộ hệ"
+      },
+      {
+        "slug": "thong-tin-gian-hang",
+        "title": "Thông tin gian hàng",
+        "topic": "`Thông tin gian hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap/thong-tin-gian-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thông tin gian hàng(Ngành Khách sạn, nhà nghỉ) I. Giới thiệu chungTính năng này cho phép bạn chủ động xem và quản lý thông tin cá nhân/doanh nghiệp đã ký hợp"
+      }
+    ]
+  },
+  {
+    "section": "hotel-thiet-lap-ban-dau-hddt",
+    "items": [
+      {
+        "slug": "bat-dau-su-dung-hoa-don-dien-tu-kiotviet",
+        "title": "Bắt đầu sử dụng Hóa đơn điện tử KiotViet",
+        "topic": "`Bắt đầu sử dụng Hóa đơn điện tử KiotViet`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/bat-dau-su-dung-hoa-don-dien-tu-kiotviet/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bắt đầu sử dụng Hóa đơn điện tử KiotViet (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Tính năng này cho phép bạn kết nối và bắt đầu sử dụng Hóa đơn điện tử"
+      },
+      {
+        "slug": "gia-ban-da-bao-gom-thue",
+        "title": "Giá bán đã bao gồm thuế",
+        "topic": "`Giá bán đã bao gồm thuế`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/gia-ban-da-bao-gom-thue/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Giá bán đã bao gồm thuế (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Tính năng Giá bán đã bao gồm thuế cho phép khách sạn, nhà nghỉ thiết lập và hiển thị giá"
+      },
+      {
+        "slug": "lap-to-khai-dang-ky-hddt-tren-kiotviet-einvoice",
+        "title": "Lập tờ khai đăng ký/ thay đổi thông tin sử dụng hóa đơn điện tử",
+        "topic": "`Lập tờ khai đăng ký/ thay đổi thông tin sử dụng hóa đơn điện tử`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/lap-to-khai-dang-ky-hddt-tren-kiotviet-einvoice/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Lập tờ khai đăng ký/ thay đổi thông tin sử dụng hóa đơn điện tử(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung1. Quy định pháp lý1.1. Phân biệt HĐĐT thông"
+      },
+      {
+        "slug": "tao-mau-hoa-don-dien-tu-tren-kiotviet-einvoice",
+        "title": "Thiết lập mẫu hóa đơn điện tử",
+        "topic": "`Thiết lập mẫu hóa đơn điện tử`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/tao-mau-hoa-don-dien-tu-tren-kiotviet-einvoice/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thiết lập mẫu hóa đơn điện tử(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung1. Phân biệt HĐĐT thông thường và HĐĐT từ máy tính tiềnTheo khoản 2 Điều 3 Nghị định"
+      },
+      {
+        "slug": "thiet-lap-he-thong-kiotviet-e-invoice",
+        "title": "Thiết lập hệ thống KiotViet e-invoice",
+        "topic": "`Thiết lập hệ thống KiotViet e-invoice`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/thiet-lap-he-thong-kiotviet-e-invoice/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thiết lập hệ thống KiotViet e-invoice(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungMenu Thiết lập là trung tâm cấu hình toàn bộ hệ thống phần mềm KiotViet e"
+      },
+      {
+        "slug": "thiet-lap-thue-vat",
+        "title": "Thiết lập Thuế VAT",
+        "topic": "`Thiết lập Thuế VAT`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/thiet-lap-thue-vat/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thiết lập Thuế VAT(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungThuế VAT (thuế giá trị gia tăng) là thuế tính trên giá trị tăng thêm của dịch vụ lưu trú, dịch"
+      },
+      {
+        "slug": "to-khai-ngung-su-dung-hoa-don-dien-tu-hddt",
+        "title": "Tờ khai ngừng sử dụng hóa đơn điện tử (HĐĐT)",
+        "topic": "`Tờ khai ngừng sử dụng hóa đơn điện tử (HĐĐT)`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/to-khai-ngung-su-dung-hoa-don-dien-tu-hddt/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tờ khai ngừng sử dụng hóa đơn điện tử (HĐĐT)(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng cho phép bạn khai báo với Cơ quan Thuế (CQT) khoảng thời"
+      },
+      {
+        "slug": "tong-quan-phan-mem-hoa-don-dien-tu-kiotviet-kv-einvoice",
+        "title": "Tổng quan Phần mềm Hóa đơn điện tử KiotViet (KV Einvoice)",
+        "topic": "`Tổng quan Phần mềm Hóa đơn điện tử KiotViet`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-hddt/tong-quan-phan-mem-hoa-don-dien-tu-kiotviet-kv-einvoice/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tổng quan Phần mềm Hóa đơn điện tử KiotViet (KV Einvoice)(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungKV Einvoice là phần mềm hóa đơn điện tử do KiotViet phát"
+      }
+    ]
+  },
+  {
+    "section": "hotel-thiet-lap-ban-dau-thue-ke-toan",
+    "items": [
+      {
+        "slug": "thiet-lap-ho-so-ke-khai-thue",
+        "title": "Thiết lập Hồ sơ kê khai thuế",
+        "topic": "`Thiết lập Hồ sơ kê khai thuế`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-thiet-lap-ban-dau-thue-ke-toan/thiet-lap-ho-so-ke-khai-thue/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Thiết lập Hồ sơ kê khai thuế(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Thiết lập hồ sơ kê khai thuế là quy trình hướng dẫn từng bước giúp hộ kinh"
+      }
+    ]
+  },
+  {
+    "section": "hotel-tich-diem",
+    "items": [
+      {
+        "slug": "tich-diem",
+        "title": "Tích điểm",
+        "topic": "`Tích điểm`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-tich-diem/tich-diem/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tích điểm(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTích lũy điểm thưởng là chương trình chăm sóc khách hàng hiệu quả, giúp gia tăng tỷ lệ khách quay lại"
+      }
+    ]
+  },
+  {
+    "section": "hotel-tinh-trang-buong-phong",
+    "items": [
+      {
+        "slug": "cap-nhat-trang-thai-buong-phong",
+        "title": "Cập nhật trạng thái buồng phòng",
+        "topic": "`Cập nhật trạng thái buồng phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-tinh-trang-buong-phong/cap-nhat-trang-thai-buong-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Cập nhật trạng thái buồng phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Buồng phòng giúp chủ khách sạn và nhân viên quản lý chặt chẽ tình trạng"
+      }
+    ]
+  },
+  {
+    "section": "hotel-to-khai-thue-hkd",
+    "items": [
+      {
+        "slug": "bang-ke-01-bk-stk-thong-bao-so-tai-khoan",
+        "title": "Bảng kê 01/BK-STK - Thông báo Số Tài Khoản",
+        "topic": "`Bảng kê 01/BK-STK`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-to-khai-thue-hkd/bang-ke-01-bk-stk-thong-bao-so-tai-khoan/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bảng kê 01/BK-STK - Thông báo Số Tài Khoản(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungBảng kê 01/BK-STK là phụ lục bắt buộc theo quy định của Thông tư"
+      },
+      {
+        "slug": "bang-ke-hang-ton-kho-01-bk-htk",
+        "title": "Bảng kê Hàng tồn kho 01/BK-HTK",
+        "topic": "`Bảng kê Hàng tồn kho 01/BK-HTK`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-to-khai-thue-hkd/bang-ke-hang-ton-kho-01-bk-htk/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bảng kê Hàng tồn kho 01/BK-HTK(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungBảng kê hàng tồn kho (01/BK-HTK) là một tiện ích được tích hợp trực tiếp bên trong"
+      },
+      {
+        "slug": "bao-cao-doanh-thu-hang-hoa-theo-nganh-nghe-tren-to-khai-thue",
+        "title": "Báo cáo doanh thu hàng hóa theo ngành nghề trên Tờ khai thuế",
+        "topic": "`Báo cáo doanh thu hàng hóa theo ngành nghề trên Tờ khai thuế`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-to-khai-thue-hkd/bao-cao-doanh-thu-hang-hoa-theo-nganh-nghe-tren-to-khai-thue/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Báo cáo doanh thu hàng hóa theo ngành nghề trên Tờ khai thuế(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Báo cáo doanh thu hàng hóa theo ngành nghề"
+      },
+      {
+        "slug": "to-khai-quyet-toan-thue-tncn-mau-02-cnkd-tncn-qtt",
+        "title": "Tờ khai quyết toán thuế TNCN (Mẫu 02/CNKD-TNCN-QTT)",
+        "topic": "`Tờ khai quyết toán thuế TNCN (Mẫu 02/CNKD-TNCN-QTT)`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-to-khai-thue-hkd/to-khai-quyet-toan-thue-tncn-mau-02-cnkd-tncn-qtt/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tờ khai quyết toán thuế TNCN (Mẫu 02/CNKD-TNCN-QTT)(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungĐây là tờ khai quyết toán thuế Thu nhập cá nhân (TNCN) hàng"
+      },
+      {
+        "slug": "to-khai-thue-mau-01-tkn-cnkd",
+        "title": "Tờ khai thuế Mẫu 01/TKN-CNKD",
+        "topic": "`Tờ khai thuế Mẫu 01/TKN-CNKD`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-to-khai-thue-hkd/to-khai-thue-mau-01-tkn-cnkd/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tờ khai thuế Mẫu 01/TKN-CNKD(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTừ kỳ kê khai năm 2026, phần mềm KiotViet hỗ trợ Hộ kinh doanh tạo tờ khai thuế năm"
+      }
+    ]
+  },
+  {
+    "section": "hotel-tra-phong",
+    "items": [
+      {
+        "slug": "kiem-phong",
+        "title": "Kiểm phòng",
+        "topic": "`Kiểm phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-tra-phong/kiem-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Kiểm phòng (Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chung Kiểm phòng là nghiệp vụ phối hợp quan trọng giữa bộ phận Lễ tân và bộ phận Buồng phòng nhằm đảm bảo"
+      },
+      {
+        "slug": "tra-phong",
+        "title": "Trả phòng",
+        "topic": "`Trả phòng`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-tra-phong/tra-phong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Trả phòng(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungQuy trình Trả phòng (check-out) là bước cuối cùng trong hành trình trải nghiệm của khách hàng tại khách"
+      }
+    ]
+  },
+  {
+    "section": "hotel-tu-van-ban-hang",
+    "items": [
+      {
+        "slug": "tao-hoa-don-ban-le",
+        "title": "Tạo hóa đơn bán lẻ",
+        "topic": "`Tạo hóa đơn bán lẻ`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-tu-van-ban-hang/tao-hoa-don-ban-le/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Tạo hóa đơn bán lẻ(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Tạo hóa đơn bán lẻ trên KiotViet Hotel được thiết kế để xử lý các giao dịch bán hàng"
+      }
+    ]
+  },
+  {
+    "section": "hotel-voucher",
+    "items": [
+      {
+        "slug": "quan-ly-voucher",
+        "title": "Quản lý Voucher",
+        "topic": "`Quản lý Voucher`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-voucher/quan-ly-voucher/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Quản lý Voucher(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungVoucher (Phiếu quà tặng/Phiếu giảm giá) là công cụ Marketing hiệu quả giúp khách sạn thu hút khách"
+      }
+    ]
+  },
+  {
+    "section": "hotel-xu-ly-sai-sot-hddt",
+    "items": [
+      {
+        "slug": "bang-ke-hoa-don-thay-the",
+        "title": "Bảng kê hóa đơn thay thế",
+        "topic": "`Bảng kê hóa đơn thay thế`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-xu-ly-sai-sot-hddt/bang-ke-hoa-don-thay-the/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Bảng kê hóa đơn thay thế(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Bảng kê hóa đơn thay thế cung cấp báo cáo chuyên biệt phục vụ việc quản lý các"
+      },
+      {
+        "slug": "gui-thong-bao-sai-sot",
+        "title": "Gửi Thông báo sai sót",
+        "topic": "`Gửi Thông báo sai sót`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-xu-ly-sai-sot-hddt/gui-thong-bao-sai-sot/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Gửi Thông báo sai sót(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Gửi Thông báo sai sót (TBSS) cho phép cửa hàng/doanh nghiệp lập và gửi thông báo"
+      },
+      {
+        "slug": "lap-hoa-don-dieu-chinh",
+        "title": "Lập hóa đơn điều chỉnh",
+        "topic": "`Lập hóa đơn điều chỉnh`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-xu-ly-sai-sot-hddt/lap-hoa-don-dieu-chinh/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Lập hóa đơn điều chỉnh(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Lập hóa đơn điều chỉnh cho phép khách sạn, nhà nghỉ xử lý các hóa đơn điện tử đã"
+      },
+      {
+        "slug": "lap-hoa-don-thay-the",
+        "title": "Lập hóa đơn thay thế",
+        "topic": "`Lập hóa đơn thay thế`",
+        "url": "/huong-dan-su-dung-kiotviet/hotel-xu-ly-sai-sot-hddt/lap-hoa-don-thay-the/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi",
+        "description": "Lập hóa đơn thay thế(Ngành Khách sạn, Nhà nghỉ) I. Giới thiệu chungTính năng Lập hóa đơn thay thế cho phép khách sạn, nhà nghỉ xử lý các hóa đơn điện tử đã phát"
+      }
+    ]
+  },
+  {
+    "section": "retail-ban-hang",
+    "items": [
+      {
+        "slug": "ban-hang",
+        "title": "Bán hàng",
+        "topic": "`Bán hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-ban-hang/ban-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bán hàng(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Bán hàng của KiotViet được thiết kế tối ưu để mang lại hiệu quả cao nhất cho hoạt động kinh doanh"
+      }
+    ]
+  },
+  {
+    "section": "retail-chuyen-nganh",
+    "items": [
+      {
+        "slug": "nganh-dien-thoai-dien-may",
+        "title": "Ngành Điện thoại - Điện máy",
+        "topic": "`Ngành Điện thoại`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-chuyen-nganh/nganh-dien-thoai-dien-may/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngành Điện thoại - Điện máyGiải pháp quản lý bán hàng toàn diện I. Giới thiệu chungĐể đáp ứng những yêu cầu đặc thù của ngành Điện thoại - Điện máy, KiotViet đã"
+      },
+      {
+        "slug": "nganh-me-va-be",
+        "title": "Ngành Mẹ và Bé",
+        "topic": "`Ngành Mẹ và Bé`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-chuyen-nganh/nganh-me-va-be/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngành Mẹ và BéGiải pháp quản lý bán hàng toàn diện I. Giới thiệu chungĐể đáp ứng những yêu cầu đặc thù của ngành Mẹ và Bé, KiotViet đã phát triển một bộ tính"
+      },
+      {
+        "slug": "nganh-my-pham",
+        "title": "Ngành Mỹ phẩm",
+        "topic": "`Ngành Mỹ phẩm`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-chuyen-nganh/nganh-my-pham/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngành Mỹ phẩmGiải pháp quản lý bán hàng toàn diện I. Giới thiệu chungĐể đáp ứng những yêu cầu đặc thù của ngành, KiotViet đã phát triển một bộ tính năng chuyên"
+      },
+      {
+        "slug": "nganh-nha-thuoc",
+        "title": "Ngành Nhà thuốc",
+        "topic": "`Ngành Nhà thuốc`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-chuyen-nganh/nganh-nha-thuoc/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngành Nhà thuốcGiải pháp quản lý bán hàng toàn diện I. Giới thiệu chungĐể đáp ứng những yêu cầu đặc thù và khắt khe của ngành Dược, KiotViet đã phát triển một"
+      },
+      {
+        "slug": "nganh-tap-hoa-sieu-thi",
+        "title": "Ngành Tạp hóa - Siêu thị",
+        "topic": "`Ngành Tạp hóa`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-chuyen-nganh/nganh-tap-hoa-sieu-thi/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngành Tạp hóa - Siêu thịGiải pháp quản lý bán hàng toàn diện I. Giới thiệu chungĐể đáp ứng những yêu cầu đặc thù của ngành Tạp hóa - Siêu thị, KiotViet đã phát"
+      },
+      {
+        "slug": "nganh-thoi-trang",
+        "title": "Ngành Thời trang",
+        "topic": "`Ngành Thời trang`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-chuyen-nganh/nganh-thoi-trang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngành Thời trangGiải pháp quản lý bán hàng toàn diện I. Giới thiệu chungĐể đáp ứng những yêu cầu đặc thù của ngành Thời trang, KiotViet đã phát triển một bộ"
+      },
+      {
+        "slug": "nganh-vat-lieu-xay-dung",
+        "title": "Ngành Vật liệu xây dựng",
+        "topic": "`Ngành Vật liệu xây dựng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-chuyen-nganh/nganh-vat-lieu-xay-dung/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngành Vật liệu xây dựngGiải pháp quản lý bán hàng toàn diện I. Giới thiệu chungTính năng Quản lý Hàng hóa Nhiều Đơn vị tính của KiotViet được thiết kế chuyên"
+      }
+    ]
+  },
+  {
+    "section": "retail-dat-hang",
+    "items": [
+      {
+        "slug": "dat-hang",
+        "title": "Đặt hàng",
+        "topic": "`Đặt hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-dat-hang/dat-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Đặt hàng(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Đặt hàng trên KiotViet là một công cụ mạnh mẽ, giúp bạn tối ưu hóa quy trình kinh doanh với 3 lợi"
+      }
+    ]
+  },
+  {
+    "section": "retail-giao-dich",
+    "items": [
+      {
+        "slug": "chi-phi-nhap-hang",
+        "title": "Quản lý Chi phí nhập hàng",
+        "topic": "`Chi phí nhập hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/chi-phi-nhap-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Quản lý Chi phí nhập hàng(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Quản lý Chi phí nhập hàng là một công cụ hữu ích giúp bạn hạch toán chính xác các"
+      },
+      {
+        "slug": "dat-hang-nhap",
+        "title": "Đặt hàng nhập",
+        "topic": "`Đặt hàng nhập`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/dat-hang-nhap/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Đặt hàng nhập(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Đặt hàng nhập giúp bạn quản lý toàn bộ quy trình làm việc với nhà cung cấp một cách chuyên"
+      },
+      {
+        "slug": "hoa-don-dau-vao",
+        "title": "Hóa đơn đầu vào",
+        "topic": "`Hóa đơn đầu vào`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/hoa-don-dau-vao/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hóa đơn đầu vào(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng \"Hóa đơn đầu vào\" cho phép cửa hàng kết nối trực tiếp với hệ thống của Cơ quan Thuế (CQT)"
+      },
+      {
+        "slug": "mua-dich-vu",
+        "title": "Mua dịch vụ",
+        "topic": "`Mua dịch vụ`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/mua-dich-vu/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Mua dịch vụ(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Mua dịch vụ cho phép cửa hàng ghi nhận chính xác các khoản chi phí dịch vụ phát sinh trong kinh"
+      },
+      {
+        "slug": "nhap-hang",
+        "title": "Nhập hàng",
+        "topic": "`Nhập hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/nhap-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Nhập hàng(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Nhập hàng trên KiotViet là công cụ không thể thiếu giúp bạn quản lý toàn bộ quy trình nhập sản"
+      },
+      {
+        "slug": "tra-hang-nhap",
+        "title": "Trả hàng nhập",
+        "topic": "`Trả hàng nhập`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/tra-hang-nhap/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Trả hàng nhập(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Trả hàng nhập là một công cụ thiết yếu giúp bạn giải quyết các vấn đề phát sinh sau khi nhập"
+      },
+      {
+        "slug": "vat-nhap-hang-phuong-phap-thue-truc-tiep",
+        "title": "VAT Nhập hàng - Phương pháp thuế trực tiếp",
+        "topic": "`VAT Nhập hàng (PP Trực tiếp)`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/vat-nhap-hang-phuong-phap-thue-truc-tiep/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "VAT Nhập hàng - Phương pháp thuế trực tiếp(Ngành Bán buôn, Bán lẻ)I. Giới thiệu chungTính năng VAT nhập hàng được thiết kế nhằm hỗ trợ các hộ kinh doanh đang áp"
+      },
+      {
+        "slug": "vat-nhap-hang",
+        "title": "VAT Nhập hàng - Phương pháp thuế khấu trừ",
+        "topic": "`VAT Nhập hàng (PP Khấu trừ)`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-dich/vat-nhap-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "VAT Nhập hàng - Phương pháp thuế khấu trừ(Ngành Bán buôn, Bán lẻ)I. Giới thiệu chungViệc quản lý và hạch toán chính xác VAT đầu vào là một nghiệp vụ quan trọng"
+      }
+    ]
+  },
+  {
+    "section": "retail-giao-van",
+    "items": [
+      {
+        "slug": "bang-gia-cac-hang-van-chuyen",
+        "title": "Bảng giá các Hãng vận chuyển",
+        "topic": "`Bảng giá các Hãng vận chuyển`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/bang-gia-cac-hang-van-chuyen/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bảng giá các Hãng vận chuyển(Ngành Bán buôn, Bán lẻ) Dưới đây là bảng giá của các hãng vận chuyển đang tích hợp với KiotViet.Đối với những gian hàng có sản"
+      },
+      {
+        "slug": "cac-cau-hoi-thuong-gap-ve-dich-vu-giao-van",
+        "title": "Các câu hỏi thường gặp về dịch vụ giao vận",
+        "topic": "`Các câu hỏi thường gặp về dịch vụ giao vận`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/cac-cau-hoi-thuong-gap-ve-dich-vu-giao-van/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "not detected"
+      },
+      {
+        "slug": "chinh-sach-can-tru-cuoc-van-chuyen",
+        "title": "Chính sách Cấn trừ công nợ vận chuyển trực tiếp trên tiền thu hộ (COD)",
+        "topic": "`Chính sách Cấn trừ công nợ vận chuyển trực tiếp trên tiền thu hộ (COD)`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/chinh-sach-can-tru-cuoc-van-chuyen/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Chính sách Cấn trừ công nợ vận chuyển trực tiếp trên tiền thu hộ (COD)Nhằm đơn giản hóa quy trình thanh toán và nâng cao trải nghiệm sử dụng dịch vụ giao vận,"
+      },
+      {
+        "slug": "dich-vu-doi-soat-nhanh",
+        "title": "Dịch vụ Đối soát nhanh",
+        "topic": "`Dịch vụ Đối soát nhanh`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/dich-vu-doi-soat-nhanh/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Dịch vụ Đối soát nhanh(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm nâng cao chất lượng dịch vụ, với mục đích giúp cho dòng tiền hàng hóa được luân chuyển"
+      },
+      {
+        "slug": "dieu-khoan-su-dung-giai-phap-giao-van",
+        "title": "Điều khoản sử dụng Giải Pháp Giao Vận",
+        "topic": "`Điều khoản sử dụng Giải Pháp Giao Vận`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/dieu-khoan-su-dung-giai-phap-giao-van/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Điều khoản sử dụng Giải Pháp Giao Vận Các Quy định dưới đây được áp dụng khi sử dụng \"Giải Pháp Giao Vận\", hay các dịch vụ bưu chính chuyển phát và các dịch vụ"
+      },
+      {
+        "slug": "doi-soat-don-cua-hang-van-chuyen-fw",
+        "title": "Đối soát đơn của hãng vận chuyển (FW)",
+        "topic": "`Đối soát đơn của hãng vận chuyển (FW)`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/doi-soat-don-cua-hang-van-chuyen-fw/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Đối soát đơn của hãng vận chuyển (FW)(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungHiện tại KiotViet chỉ hỗ trợ đối soát thanh toán với các đơn giao hàng được lên"
+      },
+      {
+        "slug": "don-giao-hang-nhieu-kien",
+        "title": "Đơn giao hàng nhiều kiện",
+        "topic": "`Đơn giao hàng nhiều kiện`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/don-giao-hang-nhieu-kien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Đơn giao hàng nhiều kiện(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Đơn giao hàng nhiều kiện (Multi-package Delivery) cho phép cửa hàng tạo nhiều kiện"
+      },
+      {
+        "slug": "ket-noi-tai-khoan-hang-van-chuyen",
+        "title": "Kết nối tài khoản hãng vận chuyển (FW)",
+        "topic": "`Kết nối tài khoản hãng vận chuyển`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/ket-noi-tai-khoan-hang-van-chuyen/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "not detected"
+      },
+      {
+        "slug": "kiotviet-canh-bao-cac-hinh-thuc-lua-dao-ve-dich-vu-giao-van",
+        "title": "KiotViet cảnh báo các hình thức lừa đảo về dịch vụ giao vận",
+        "topic": "`KiotViet cảnh báo các hình thức lừa đảo về dịch vụ giao vận`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/kiotviet-canh-bao-cac-hinh-thuc-lua-dao-ve-dich-vu-giao-van/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "KiotViet cảnh báo các hình thức lừa đảo về dịch vụ giao vậnKính chào Quý khách,Thời gian gần đây, các hành vi lừa đảo tiếp tục diễn biến ngày càng diễn biến"
+      },
+      {
+        "slug": "quan-ly-doi-tac-giao-hang",
+        "title": "Quản lý Đối tác giao hàng",
+        "topic": "`Quản lý Đối tác giao hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/quan-ly-doi-tac-giao-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Quản lý Đối tác giao hàng(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Quản lý Đối tác giao hàng giúp bạn theo dõi và quản lý tập trung tất cả các đơn"
+      },
+      {
+        "slug": "quy-dinh-boi-thuong-khieu-nai-dich-vu-giao-van",
+        "title": "Quy định về bồi thường, khiếu nại dịch vụ giao vận",
+        "topic": "`Quy định về bồi thường, khiếu nại dịch vụ giao vận`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/quy-dinh-boi-thuong-khieu-nai-dich-vu-giao-van/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "not detected"
+      },
+      {
+        "slug": "tao-don-da-diem-ahamove",
+        "title": "Tạo đơn đa điểm Ahamove",
+        "topic": "`Tạo đơn đa điểm Ahamove`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/tao-don-da-diem-ahamove/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Tạo đơn đa điểm Ahamove(Ngành Bán buôn, Bán lẻ) - Để tối ưu giao hàng, tiết kiệm chi phí, KShip tích hợp tính năng Tạo đơn đa điểm của hãng vận chuyển Ahamove."
+      },
+      {
+        "slug": "thiet-lap-xac-thuc-otp-kship",
+        "title": "Thiết lập Giao hàng Xác thực OTP",
+        "topic": "`Thiết lập Giao hàng Xác thực OTP`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/thiet-lap-xac-thuc-otp-kship/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thiết lập Giao hàng Xác thực OTP(Ngành Bán buôn, Bán lẻ) Các thao tác cơ bản:Trong Thiết lập tính năng giao hàng, nếu gian hàng có sự thay đổi về 1 trong 2"
+      },
+      {
+        "slug": "thong-bao-dung-ket-noi-cong-fw-tren-goi-ho-tro",
+        "title": "Thông báo dừng kết nối cổng FW trên gói Hỗ trợ",
+        "topic": "`Thông báo dừng kết nối cổng FW trên gói Hỗ trợ`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/thong-bao-dung-ket-noi-cong-fw-tren-goi-ho-tro/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thông báo dừng kết nối cổng FW trên gói Hỗ trợKiotViet xin gửi đến Quý khách thông báo quan trọng về thay đổi tính năng trong Gói hỗ trợ- Nội dung: Dừng tính"
+      },
+      {
+        "slug": "tich-hop-hang-van-chuyen",
+        "title": "Tích hợp Hãng vận chuyển",
+        "topic": "`Tích hợp Hãng vận chuyển`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/tich-hop-hang-van-chuyen/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Tích hợp Hãng vận chuyển(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Tích hợp Hãng vận chuyển giúp tự động hóa hoàn toàn quy trình giao hàng của cửa"
+      },
+      {
+        "slug": "tin-tuc-chuong-trinh-khuyen-mai-dich-vu-giao-van",
+        "title": "Tin tức, chương trình khuyến mại Dịch vụ giao vận",
+        "topic": "`Tin tức, chương trình khuyến mại Dịch vụ giao vận`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/tin-tuc-chuong-trinh-khuyen-mai-dich-vu-giao-van/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Tin tức, chương trình khuyến mại Dịch vụ giao vận(Ngành Bán buôn, Bán lẻ)Tin tức, chương trình khuyến mại Dịch vụ giao vận được cập nhật tại các nội dung tại"
+      },
+      {
+        "slug": "viettel-post-danh-sach-dia-danh-tuyen-xa",
+        "title": "Viettel Post - Danh sách Địa danh tuyến xã",
+        "topic": "`Viettel Post`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-giao-van/viettel-post-danh-sach-dia-danh-tuyen-xa/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Viettel Post - Danh sách Địa danh tuyến xãNhằm đảm bảo thời gian và chất lượng giao nhận, các đơn hàng giao đến tuyến huyện/xã sẽ được áp dụng mức phụ phí theo"
+      }
+    ]
+  },
+  {
+    "section": "retail-hang-hoa",
+    "items": [
+      {
+        "slug": "bao-hanh-bao-tri",
+        "title": "Bảo hành, Bảo trì",
+        "topic": "`Bảo hành, Bảo trì`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/bao-hanh-bao-tri/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bảo hành, Bảo trì(Ngành Điện thoại & Điện máy, Xe & Phụ tùng) I. Giới thiệu chungTính năng Bảo hành, bảo trì giúp bạn quản lý toàn diện vòng đời sản phẩm sau"
+      },
+      {
+        "slug": "chuyen-hang",
+        "title": "Chuyển hàng",
+        "topic": "`Chuyển hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/chuyen-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Chuyển hàng(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Chuyển hàng cho phép các cửa hàng có nhiều chi nhánh hoặc quản lý đa kho dễ dàng thực hiện việc"
+      },
+      {
+        "slug": "danh-sach-hang-hoa",
+        "title": "Danh sách hàng hóa",
+        "topic": "`Danh sách hàng hóa`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "duplicateOf": "",
+        "description": "Danh sách hàng hóa(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Danh sách hàng hóa là công cụ trung tâm giúp bạn quản lý toàn bộ sản phẩm đang kinh"
+      },
+      {
+        "slug": "hang-combo-dong-goi",
+        "title": "Hàng Combo – Đóng gói",
+        "topic": "`Hàng Combo`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/hang-combo-dong-goi/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hàng Combo – Đóng gói(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Hàng Combo – Đóng gói cho phép bạn tạo ra các sản phẩm mới bằng cách gộp nhiều mặt"
+      },
+      {
+        "slug": "hang-dich-vu",
+        "title": "Hàng Dịch vụ",
+        "topic": "`Hàng dịch vụ`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/hang-dich-vu/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hàng Dịch vụ(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungViệc tạo và quản lý các sản phẩm dịch vụ trên KiotViet mang lại cho cửa hàng của bạn những lợi ích thiết"
+      },
+      {
+        "slug": "hang-hoa-lo-han-su-dung",
+        "title": "Hàng hóa Lô – Hạn sử dụng",
+        "topic": "`Hàng hóa Lô`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/hang-hoa-lo-han-su-dung/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hàng hóa Lô – Hạn sử dụng(Ngành Tạp hóa - Siêu thị, Mỹ phẩm, Mẹ và Bé, Nhà thuốc, Nông sản - Thực phẩm, Khác) I. Giới thiệu chungTính năng này được thiết kế để"
+      },
+      {
+        "slug": "hang-hoa-serial-imei",
+        "title": "Hàng hóa Serial/IMEI",
+        "topic": "`Hàng hóa Serial/IMEI`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/hang-hoa-serial-imei/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hàng hóa Serial/IMEI(Ngành Điện thoại & Điện máy, Xe & Phụ tùng) I. Giới thiệu chungViệc áp dụng quản lý theo Serial/IMEI trên KiotViet mang lại cho cửa hàng"
+      },
+      {
+        "slug": "hang-hoa-thuong",
+        "title": "Hàng hóa thường",
+        "topic": "`Hàng hóa thường`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/hang-hoa-thuong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hàng hóa thường(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungViệc quản lý danh mục hàng hóa một cách khoa học và chi tiết mang lại những lợi ích thiết thực, là"
+      },
+      {
+        "slug": "hang-san-xuat",
+        "title": "Hàng sản xuất",
+        "topic": "`Hàng Sản xuất`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/hang-san-xuat/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hàng sản xuất(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungViệc sử dụng tính năng Hàng sản xuất trên KiotViet sẽ mang lại cho cửa hàng của bạn những lợi ích thiết"
+      },
+      {
+        "slug": "kiem-kho",
+        "title": "Kiểm kho",
+        "topic": "`Kiểm kho`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/kiem-kho/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Kiểm kho(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungViệc thực hiện kiểm kho thường xuyên và đúng quy trình trên KiotViet sẽ mang lại cho cửa hàng của bạn những"
+      },
+      {
+        "slug": "thiet-lap-gia",
+        "title": "Thiết lập giá",
+        "topic": "`Thiết lập giá`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/thiet-lap-gia/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thiết lập giá(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng \"Thiết lập giá\" cho phép bạn tạo và quản lý nhiều bảng giá khác nhau ngoài bảng giá chung mặc"
+      },
+      {
+        "slug": "xuat-dung-noi-bo",
+        "title": "Xuất dùng nội bộ",
+        "topic": "`Xuất dùng nội bộ`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/xuat-dung-noi-bo/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Xuất dùng nội bộ(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Xuất dùng nội bộ cho phép cửa hàng tạo phiếu xuất kho dành riêng cho các hoạt động nội bộ"
+      },
+      {
+        "slug": "xuat-huy",
+        "title": "Xuất hủy",
+        "topic": "`Xuất hủy`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-hang-hoa/xuat-huy/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Xuất hủy(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungViệc sử dụng tính năng Xuất hủy trên KiotViet giúp bạn giải quyết triệt để các vấn đề liên quan đến hàng hóa"
+      }
+    ]
+  },
+  {
+    "section": "retail-he-thong-giai-phap-kiotviet",
+    "items": [
+      {
+        "slug": "tong-quan-cac-nhom-giai-phap-kiotviet",
+        "title": "Tổng quan các nhóm giải pháp KiotViet",
+        "topic": "`Tổng Quan Các Nhóm Giải Pháp KiotViet`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-he-thong-giai-phap-kiotviet/tong-quan-cac-nhom-giai-phap-kiotviet/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Tổng quan các nhóm giải pháp KiotViet(Ngành Bán buôn, Bán lẻ)I. Giới thiệu chung Chào mừng bạn đến với Trang Hướng dẫn sử dụng KiotViet dành cho ngành hàng Bán"
+      }
+    ]
+  },
+  {
+    "section": "retail-khoi-tao-gian-hang",
+    "items": [
+      {
+        "slug": "dang-ky-tai-khoan",
+        "title": "Đăng ký tài khoản",
+        "topic": "`Đăng ký tài khoản`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-khoi-tao-gian-hang/dang-ky-tai-khoan/",
+        "duplicateOf": "",
+        "description": "not detected"
+      },
+      {
+        "slug": "dang-nhap",
+        "title": "Đăng nhập",
+        "topic": "`Đăng nhập`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-khoi-tao-gian-hang/dang-nhap/",
+        "duplicateOf": "",
+        "description": "not detected"
+      }
+    ]
+  },
+  {
+    "section": "retail-lam-quen-voi-kiotviet",
+    "items": [
+      {
+        "slug": "buoc-1-them-moi-hang-hoa",
+        "title": "Bước 1 - Thêm mới hàng hóa",
+        "topic": "`Bước 1`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-lam-quen-voi-kiotviet/buoc-1-them-moi-hang-hoa/",
+        "duplicateOf": "",
+        "description": "Bước 1 - Thêm mới hàng hóa(Làm quen Phần mềm KiotViet - Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungThêm mới hàng hóa là bước khởi đầu thiết yếu, tạo ra nền tảng"
+      },
+      {
+        "slug": "buoc-2-nhap-hang",
+        "title": "Bước 2 - Nhập hàng",
+        "topic": "`Bước 2`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-lam-quen-voi-kiotviet/buoc-2-nhap-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bước 2 - Nhập hàng(Làm quen Phần mềm KiotViet - Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhập hàng là nghiệp vụ ghi nhận chính xác số lượng hàng hóa nhập về"
+      },
+      {
+        "slug": "buoc-3-ban-hang",
+        "title": "Bước 3 - Bán hàng",
+        "topic": "`Bước 3`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-lam-quen-voi-kiotviet/buoc-3-ban-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bước 3 - Bán hàng(Làm quen Phần mềm KiotViet - Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungSau khi đã có dữ liệu hàng hóa và tồn kho, thao tác Bán hàng là hoạt"
+      },
+      {
+        "slug": "buoc-4-tra-hang",
+        "title": "Bước 4 - Trả hàng",
+        "topic": "`Bước 4`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-lam-quen-voi-kiotviet/buoc-4-tra-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bước 4 - Trả hàng(Làm quen Phần mềm KiotViet - Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTrong kinh doanh, việc khách hàng trả lại sản phẩm là không thể tránh"
+      },
+      {
+        "slug": "buoc-5-quan-ly-cong-no",
+        "title": "Bước 5 - Quản lý công nợ",
+        "topic": "`Bước 5`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-lam-quen-voi-kiotviet/buoc-5-quan-ly-cong-no/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bước 5 - Quản lý công nợ(Làm quen Phần mềm KiotViet - Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungSau khi thực hiện các giao dịch mua và bán, việc phát sinh công"
+      },
+      {
+        "slug": "buoc-6-theo-doi-bao-cao",
+        "title": "Bước 6 - Theo dõi Báo cáo",
+        "topic": "`Bước 6`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-lam-quen-voi-kiotviet/buoc-6-theo-doi-bao-cao/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Bước 6 - Theo dõi Báo cáo(Làm quen Phần mềm KiotViet - Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungSau khi đã thực hiện các nghiệp vụ hàng ngày, tính năng Báo"
+      },
+      {
+        "slug": "tong-quan-cac-buoc-lam-quen-kiotviet",
+        "title": "Tổng quan các bước làm quen KiotViet",
+        "topic": "`Tổng quan các bước làm quen KiotViet`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-lam-quen-voi-kiotviet/tong-quan-cac-buoc-lam-quen-kiotviet/",
+        "duplicateOf": "",
+        "description": "Tổng quan các bước làm quen KiotViet(Làm quen Phần mềm KiotViet - Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTổng quan các bước làm quen KiotViet Retail Chào"
+      }
+    ]
+  },
+  {
+    "section": "retail-nha-cung-cap",
+    "items": [
+      {
+        "slug": "nha-cung-cap",
+        "title": "Quản lý Nhà cung cấp",
+        "topic": "`Nhà cung cấp`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-nha-cung-cap/nha-cung-cap/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Quản lý Nhà cung cấp(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Quản lý Nhà cung cấp trên KiotViet là công cụ giúp bạn lưu trữ, phân loại và theo dõi"
+      }
+    ]
+  },
+  {
+    "section": "retail-thanh-toan",
+    "items": [
+      {
+        "slug": "thanh-toan-da-tien-te",
+        "title": "Quản lý tiền tệ",
+        "topic": "`Quản lý tiền tệ`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-da-tien-te/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Quản lý tiền tệ(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Quản lý tiền tệ cho phép các gian hàng thiết lập và quản lý các giao dịch tài chính, báo"
+      },
+      {
+        "slug": "thanh-toan-qua-bidv",
+        "title": "Thanh toán qua BIDV",
+        "topic": "`Thanh toán qua BIDV`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-bidv/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua BIDV(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ngân hàng"
+      },
+      {
+        "slug": "thanh-toan-qua-mb-bank",
+        "title": "Thanh toán qua MB Bank",
+        "topic": "`Thanh toán qua MB Bank`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-mb-bank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua MB Bank(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ngân"
+      },
+      {
+        "slug": "thanh-toan-qua-momo",
+        "title": "Thanh toán qua MoMo",
+        "topic": "`Thanh toán qua MoMo`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-momo/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua MoMo(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ví điện tử"
+      },
+      {
+        "slug": "thanh-toan-qua-sacombank",
+        "title": "Thanh toán qua Sacombank",
+        "topic": "`Thanh toán qua Sacombank`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-sacombank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua Sacombank(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ngân"
+      },
+      {
+        "slug": "thanh-toan-qua-vib",
+        "title": "Thanh toán qua VIB",
+        "topic": "`Thanh toán qua VIB`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-vib/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua VIB(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ngân hàng"
+      },
+      {
+        "slug": "thanh-toan-qua-vietcombank",
+        "title": "Thanh toán qua Vietcombank",
+        "topic": "`Thanh toán qua Vietcombank`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-vietcombank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua Vietcombank(Ngành Bán buôn, Bán lẻ)I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ngân"
+      },
+      {
+        "slug": "thanh-toan-qua-vietinbank",
+        "title": "Thanh toán qua VietinBank",
+        "topic": "`Thanh toán qua VietinBank`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-vietinbank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua VietinBank(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ngân"
+      },
+      {
+        "slug": "thanh-toan-qua-vietqr",
+        "title": "Thanh toán qua QR",
+        "topic": "`Thanh toán qua QR`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-vietqr/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua QR(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungKiotViet hỗ trợ tính năng thanh toán bằng mã QR, giúp quy trình thanh toán tại cửa hàng của bạn"
+      },
+      {
+        "slug": "thanh-toan-qua-vpbank",
+        "title": "Thanh toán qua VPBank",
+        "topic": "`Thanh toán qua VPBank`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-vpbank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua VPBank(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ngân"
+      },
+      {
+        "slug": "thanh-toan-qua-zalopay",
+        "title": "Thanh toán qua ZaloPay",
+        "topic": "`Thanh toán qua ZaloPay`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan-qua-zalopay/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua ZaloPay(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng ví điện"
+      },
+      {
+        "slug": "thanh-toan",
+        "title": "Thanh toán",
+        "topic": "`Thanh toán`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thanh-toan/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Thanh toán là một nghiệp vụ quan trọng giúp hoàn tất giao dịch bán hàng một cách nhanh chóng,"
+      },
+      {
+        "slug": "thu-khac",
+        "title": "Thu khác",
+        "topic": "`Thu khác`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thanh-toan/thu-khac/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thu khác(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Quản lý thu khác hỗ trợ cửa hàng quản lý các khoản chi phí phát sinh ngoài giá trị hàng hóa như:"
+      }
+    ]
+  },
+  {
+    "section": "retail-thiet-bi-phan-cung",
+    "items": [
+      {
+        "slug": "cay-hien-thi-gia",
+        "title": "Cây hiển thị giá",
+        "topic": "`Cây hiển thị giá`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/cay-hien-thi-gia/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Cây hiển thị giá(Ngành Bán buôn, Bán lẻ) Cây hiển thị giá là thiết bị giúp khách mua hàng quan sát thông tin về các sản phẩm như: tên, giá, số lượng… khi thu"
+      },
+      {
+        "slug": "huong-dan-thay-doi-dns",
+        "title": "Hướng dẫn thay đổi DNS",
+        "topic": "`Hướng dẫn thay đổi DNS`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/huong-dan-thay-doi-dns/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Hướng dẫn thay đổi DNS (Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTrong một số trường hợp, hệ thống DNS (Domain Name System) mặc định của nhà cung cấp mạng có"
+      },
+      {
+        "slug": "kiotviet-hardware-manager",
+        "title": "KiotViet Hardware Manager",
+        "topic": "`KiotViet Hardware Manager`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/kiotviet-hardware-manager/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "KiotViet Hardware Manager(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chung1. Mục đích sử dụngKhi bạn sử dụng các thiết bị phần cứng như máy in hóa đơn, máy quét mã"
+      },
+      {
+        "slug": "loa-thong-bao-thanh-toan-qr-dong-kv66",
+        "title": "Loa thông báo thanh toán QR động KV66",
+        "topic": "`Loa thông báo thanh toán QR động KV66`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/loa-thong-bao-thanh-toan-qr-dong-kv66/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Loa thông báo thanh toán QR động KV66(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để cài đặt và sử dụng thiết bị Loa"
+      },
+      {
+        "slug": "man-hien-thi-qr",
+        "title": "Màn hình Hiển thị QR",
+        "topic": "`Màn hình hiển thị QR`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/man-hien-thi-qr/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Màn hình Hiển thị QR(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để cài đặt và sử dụng các dòng màn hình hiển thị mã QR"
+      },
+      {
+        "slug": "may-cham-cong",
+        "title": "Máy chấm công",
+        "topic": "`Máy chấm công`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/may-cham-cong/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Máy chấm công(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungiện tại, KiotViet đang hỗ trợ các dòng máy chấm công như: Ronald Jack UA200, Ronald Jack DG-600ID,"
+      },
+      {
+        "slug": "may-in-hoa-don",
+        "title": "Máy in hóa đơn",
+        "topic": "`Máy in hóa đơn`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/may-in-hoa-don/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Máy in hóa đơn(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để lắp đặt và thiết lập các dòng máy in hóa đơn nhiệt phổ"
+      },
+      {
+        "slug": "may-in-tem-nhan",
+        "title": "Máy in tem mã",
+        "topic": "`Máy in tem mã`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/may-in-tem-nhan/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Máy in tem mã(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để lắp đặt và thiết lập các dòng Máy in tem mã nhiệt phổ biến"
+      },
+      {
+        "slug": "may-pos-android-new",
+        "title": "Máy POS Android KiotViet",
+        "topic": "`Máy POS Android (HDSD Phiên bản app KiotViet mới)`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/may-pos-android-new/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Máy POS Android KiotViet(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungKiotViet cung cấp nhiều dòng Máy POS Android chuyên dụng như D10, D10 Pro, D68 Single, và"
+      },
+      {
+        "slug": "may-quet-ma-vach",
+        "title": "Máy quét mã vạch",
+        "topic": "`Máy quét mã vạch`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/may-quet-ma-vach/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Máy quét mã vạch(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để lắp đặt và sử dụng các dòng máy quét mã vạch do KiotViet"
+      },
+      {
+        "slug": "ngan-keo-dung-tien",
+        "title": "Ngăn kéo đựng tiền",
+        "topic": "`Ngăn kéo đựng tiền`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-thiet-bi-phan-cung/ngan-keo-dung-tien/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Ngăn kéo đựng tiền(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTài liệu này cung cấp hướng dẫn chi tiết để kết nối và sử dụng ngăn kéo đựng tiền chuyên dụng với"
+      }
+    ]
+  },
+  {
+    "section": "retail-tra-cuu-san-pham",
+    "items": [
+      {
+        "slug": "tra-cuu-san-pham",
+        "title": "Tra cứu sản phẩm",
+        "topic": "`Tra cứu sản phẩm`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-tra-cuu-san-pham/tra-cuu-san-pham/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Tra cứu sản phẩm(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng tra cứu sản phẩm được tích hợp ngay trên màn hình bán hàng của KiotViet, giúp bạn và nhân"
+      }
+    ]
+  },
+  {
+    "section": "retail-tra-hang",
+    "items": [
+      {
+        "slug": "tra-hang",
+        "title": "Trả hàng",
+        "topic": "`Trả hàng`",
+        "url": "/huong-dan-su-dung-kiotviet/retail-tra-hang/tra-hang/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Trả hàng(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungTính năng Trả hàng trên KiotViet được thiết kế để tối ưu hóa quy trình nghiệp vụ tại cửa hàngTính năng Trả"
+      }
+    ]
+  },
+  {
+    "section": "thanh-toan-retail",
+    "items": [
+      {
+        "slug": "thanh-toan-qua-techcombank",
+        "title": "Thanh toán qua Techcombank",
+        "topic": "`Thanh toán qua Techcombank`",
+        "url": "/huong-dan-su-dung-kiotviet/thanh-toan-retail/thanh-toan-qua-techcombank/",
+        "duplicateOf": "https://www.kiotviet.vn/huong-dan-su-dung-kiotviet/retail-hang-hoa/danh-sach-hang-hoa/",
+        "description": "Thanh toán qua Techcombank(Ngành Bán buôn, Bán lẻ) I. Giới thiệu chungNhằm hỗ trợ các gian hàng thúc đẩy việc thanh toán phi tiền mặt, KiotViet kết hợp cùng"
+      }
+    ]
+  },
+  {
+    "section": "thiet-lap-cua-hang-web-retail",
+    "items": [
+      {
+        "slug": "dat-lich-xoa-giao-dich-va-thu-chi",
+        "title": "Đặt lịch xóa giao dịch và thu chi",
+        "topic": "`Đặt lịch xóa giao dịch và thu chi`",
+        "url": "/huong-dan-su-dung-kiotviet/thiet-lap-cua-hang-web-retail/dat-lich-xoa-giao-dich-va-thu-chi/",
+        "duplicateOf": "",
+        "description": "Đặt lịch xóa giao dịch và thu chi(Ngành Bán buôn, Bán lẻ) Tính năng này giúp gian hàng tối ưu hóa việc lưu trữ và quản lý dữ liệu bằng cách:Linh hoạt chọn dữ"
+      }
+    ]
+  }
+]

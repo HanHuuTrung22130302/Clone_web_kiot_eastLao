@@ -1,0 +1,522 @@
+{
+  "primary": [
+    {
+      "label": "+ Thêm mới hàng hóa",
+      "href": "javascript:;"
+    },
+    {
+      "label": "Hóa đơn 1",
+      "href": "javascript:void(0);"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/huong-dan-su-dung-kiotviet/retail-ban-hang/ban-hang/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/"
+    },
+    {
+      "label": "Phí dịch vụ",
+      "href": "/phi-dich-vu"
+    },
+    {
+      "label": "Khách hàng KiotViet",
+      "href": "/khach-hang/"
+    },
+    {
+      "label": "Giới thiệu khách hàng",
+      "href": "/gioithieukhachhang/"
+    },
+    {
+      "label": "Hỗ trợ",
+      "href": "/ho-tro/"
+    },
+    {
+      "label": "Tin tức",
+      "href": "/blog/"
+    },
+    {
+      "label": "Kinh nghiệm kinh doanh",
+      "href": "/t/kinh-nghiem-kinh-doanh/"
+    },
+    {
+      "label": "Câu chuyện thành công",
+      "href": "/t/cau-chuyen-thanh-cong/"
+    },
+    {
+      "label": "Mẹo hay",
+      "href": "/t/meo-hay/"
+    },
+    {
+      "label": "Khuyến mãi",
+      "href": "/t/khuyen-mai/"
+    },
+    {
+      "label": "Tin tức về KiotViet",
+      "href": "/t/tin-tuc-ve-ki-ot-viet/"
+    },
+    {
+      "label": "Về KiotViet",
+      "href": "/ve-ki-ot-viet/"
+    },
+    {
+      "label": "Đăng ký",
+      "href": "/dang-ky"
+    },
+    {
+      "label": "Tạp hóa & Siêu thị",
+      "href": "/phan-mem-ban-hang-tap-hoa"
+    },
+    {
+      "label": "Điện tử & Điện máy",
+      "href": "/dien-thoai-dien-may"
+    },
+    {
+      "label": "Nông sản & Thực phẩm",
+      "href": "/nong-san-thuc-pham"
+    },
+    {
+      "label": "Xe & máy móc",
+      "href": "/linh-kien-may-moc"
+    },
+    {
+      "label": "Nội thất & Gia dụng",
+      "href": "/noi-that"
+    },
+    {
+      "label": "Sách & Văn phòng phẩm",
+      "href": "/sach-van-phong-pham"
+    },
+    {
+      "label": "Khác",
+      "href": "/cua-hang-ban-buon-ban-le"
+    },
+    {
+      "label": "Thời trang",
+      "href": "/phan-mem-ban-hang-thoi-trang"
+    },
+    {
+      "label": "Vật liệu xây dựng",
+      "href": "/vat-lieu-xay-dung"
+    },
+    {
+      "label": "Nhà thuốc",
+      "href": "/phan-mem-quan-ly-nha-thuoc"
+    },
+    {
+      "label": "Mỹ phẩm",
+      "href": "/phan-mem-quan-ly-ban-hang-my-pham"
+    },
+    {
+      "label": "Mẹ & Bé",
+      "href": "/me-be"
+    },
+    {
+      "label": "Hoa & Quà tặng",
+      "href": "/hoa-qua-tang"
+    },
+    {
+      "label": "Quán ăn",
+      "href": "/quan-ly-quan-an"
+    },
+    {
+      "label": "Cafe, Trà sữa",
+      "href": "/quan-ly-cafe-tra-sua"
+    },
+    {
+      "label": "Karaoke, Bida",
+      "href": "/quan-ly-karaoke-bida"
+    },
+    {
+      "label": "Bar, Pub & Club",
+      "href": "/quan-ly-bar-pub-club"
+    },
+    {
+      "label": "Căng tin & Trạm dừng nghỉ",
+      "href": "/ban-hang-cang-tin-tram-dung-nghi"
+    },
+    {
+      "label": "Nhà hàng",
+      "href": "/bar-cafe-nha-hang"
+    },
+    {
+      "label": "Thẩm mỹ viện",
+      "href": "/quan-ly-tham-my-vien"
+    },
+    {
+      "label": "Hair Salon",
+      "href": "/quan-ly-hair-salon"
+    },
+    {
+      "label": "Nail & Mi",
+      "href": "/quan-ly-nail-mi"
+    },
+    {
+      "label": "Phòng khám",
+      "href": "/quan-ly-phong-kham"
+    },
+    {
+      "label": "Spa & Massage",
+      "href": "/quan-ly-spa-massage"
+    }
+  ],
+  "footer": [
+    {
+      "label": "Gym, Yoga & Pilates",
+      "href": "/quan-ly-gym-yoga"
+    },
+    {
+      "label": "Khách sạn",
+      "href": "/quan-ly-khach-san"
+    },
+    {
+      "label": "Homestay",
+      "href": "/quan-ly-homestay"
+    },
+    {
+      "label": "Nhà nghỉ",
+      "href": "/quan-ly-nha-nghi"
+    },
+    {
+      "label": "Nhà trọ",
+      "href": "/quan-ly-nha-tro"
+    },
+    {
+      "label": "Villa",
+      "href": "/quan-ly-villa"
+    },
+    {
+      "label": "Resort",
+      "href": "/quan-ly-resort"
+    },
+    {
+      "label": "Camping/Glamping",
+      "href": "/quan-ly-camping-glamping"
+    },
+    {
+      "label": "Sức khỏe, làm đẹp",
+      "href": "/spa-salon-massage-nails"
+    },
+    {
+      "label": "Khách sạn, nhà nghỉ",
+      "href": "/quan-ly-khach-san-nha-nghi"
+    },
+    {
+      "label": "Giải pháp giao hàng",
+      "href": "/giai-phap-giao-hang-ngay-tren-kiotviet/"
+    },
+    {
+      "label": "Trang chủ",
+      "href": "/"
+    },
+    {
+      "label": "Tin Tức",
+      "href": "/blog"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/8-8-chot-deal-hoi-cung-vpbank-nhan-loa-kv66-hoan-tien-den-400-000-dong/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/goi-vay-tnex-giup-quan-an-nho-vuot-bao-chi-phi/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/kiotviet-tang-combo-thiet-bi-kem-phan-mem-ban-hang-va-mien-phi-100-giai-phap-thue-cho-chu-shop/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/giam-lai-goi-vay-tiep-von-mua-cao-diem-cung-tnex/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/san-von-trong-tay-toi-uu-co-hoi/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/xoay-von-nhe-nhang-de-dang-buon-ban-cung-mbbank-x-kiotviet/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/ha-nhiet-lai-suat-nhe-ganh-dong-tien-cung-goi-vay-tnex/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/check-var-goi-vay-vpbank-vay-ngan-hang-khong-kho/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/napas-kiotviet-hop-tac-mo-rong-he-sinh-thai-thanh-toan-vietqr/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/chang-so-phi-an-vay-von-co-ngay-nho-vietcredit/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/tat-toan-truoc-han-mien-phi-voi-goi-vay-mbbank/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/vay-dung-noi-khoi-dong-von-vpbank-va-kiotviet-tiep-suc-kinh-doanh/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/kiotviet-ra-mat-combo-thuong-mai-dien-tu-chuan-thue-2026/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/tang-toc-ban-hang-rinh-qua-phat-loc-cung-vpbank/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/tim-chu-quan-nhan-qua-hoan-tien-den-600-000-dong-tu-vib/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/tang-loa-ting-ting-hoan-tien-cuc-dinh-den-400-000-dong/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/hoan-10-tien-nop-thue-khi-mo-tai-khoan-ho-kinh-doanh-vpbank/"
+    },
+    {
+      "label": "2",
+      "href": "/blog/?page=2"
+    },
+    {
+      "label": "3",
+      "href": "/blog/?page=3"
+    },
+    {
+      "label": "4",
+      "href": "/blog/?page=4"
+    },
+    {
+      "label": "168",
+      "href": "/blog/?page=168"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/hoan-tien-hoi-sinh-loi-chat-den-4-5-nam-cung-thanh-toan-qr-vib/"
+    },
+    {
+      "label": "Hoàn tiền “hời” - Sinh lời “chất” đến 4.5%/năm khi thanh toán QR VIB",
+      "href": "/hoan-tien-hoi-sinh-loi-chat-den-4-5-nam-khi-thanh-toan-qr-vib"
+    },
+    {
+      "label": "Chủ shop “biết tối ưu” giúp dòng tiền tự động sinh lời như thế nào?",
+      "href": "/chu-shop-biet-toi-uu-giup-dong-tien-tu-dong-sinh-loi-nhu-the-nao"
+    },
+    {
+      "label": "8/8 chốt deal “hời” cùng VPBank: Nhận loa KV66 & Hoàn tiền đến 400.000 đồng",
+      "href": "/8-8-chot-deal-hoi-cung-vpbank-nhan-loa-kv66-hoan-tien-den-400-000-dong"
+    },
+    {
+      "label": "Gói vay TNEX giúp quán ăn nhỏ vượt “bão” chi phí",
+      "href": "/goi-vay-tnex-giup-quan-an-nho-vuot-bao-chi-phi"
+    },
+    {
+      "label": "KiotViet tặng combo thiết bị kèm phần mềm bán hàng và miễn phí 100% giải pháp thuế cho chủ shop",
+      "href": "/kiotviet-tang-combo-thiet-bi-kem-phan-mem-ban-hang-va-mien-phi-100-giai-phap-thue-cho-chu-shop"
+    },
+    {
+      "label": "NAPAS - KiotViet hợp tác mở rộng hệ sinh thái thanh toán VietQR",
+      "href": "/napas-kiotviet-hop-tac-mo-rong-he-sinh-thai-thanh-toan-vietqr"
+    },
+    {
+      "label": "Chẳng sợ phí ẩn, vay vốn có ngay nhờ VietCredit",
+      "href": "/chang-so-phi-an-vay-von-co-ngay-nho-vietcredit"
+    },
+    {
+      "label": "Văn khấn xin lộc làm ăn, kinh doanh buôn bán chuẩn tâm linh",
+      "href": "/van-khan-xin-loc-lam-an-kinh-doanh-buon-ban-chuan-tam-linh"
+    },
+    {
+      "label": "Tặng ngay máy bán hàng cầm tay KV88 trị giá 4.990.000đ khi mua 3 năm phần mềm KiotViet gói chuyên nghiệp",
+      "href": "/tang-ngay-may-ban-hang-cam-tay-kv88-khi-mua-3-nam-phan-mem-kiotviet-goi-chuyen-nghiep"
+    },
+    {
+      "label": "Tặng trọn bộ thiết bị bán hàng trị giá 2.490.000đ khi mua phần mềm KiotViet gói chuyên nghiệp",
+      "href": "/tang-tron-bo-thiet-bi-ban-hang-khi-mua-phan-mem-kiotviet-goi-chuyen-nghiep"
+    },
+    {
+      "label": "KiotViet - Phần mềm quản lý bán hàng Phổ Biến Nhất",
+      "href": "/kiotviet-phan-mem-quan-ly-ban-hang-pho-bien-nhat"
+    },
+    {
+      "label": "KiotViet ra mắt Combo thương mại điện tử chuẩn thuế 2026",
+      "href": "/kiotviet-ra-mat-combo-thuong-mai-dien-tu-chuan-thue-2026"
+    },
+    {
+      "label": "Hóa đơn điện tử là gì? Cách xuất hóa đơn điện tử trên phần mềm quản lý bán hàng",
+      "href": "/hoa-don-dien-tu-la-gi-cach-xuat-hoa-don-dien-tu-tren-phan-mem-quan-ly-ban-hang"
+    },
+    {
+      "label": "Top 10 app đặt phòng khách sạn giá rẻ, uy tín nhất hiện nay",
+      "href": "/top-10-app-dat-phong-khach-san-gia-re-uy-tin-nhat-hien-nay"
+    },
+    {
+      "label": "Top 10 phần mềm quản lý bán hàng giá rẻ và uy tín nhất hiện nay",
+      "href": "/top-10-phan-mem-quan-ly-ban-hang-gia-re-va-uy-tin-nhat-hien-nay"
+    },
+    {
+      "label": "Tra cứu hóa đơn điện tử như thế nào? Cách tra cứu nhanh từ phần mềm bán hàng",
+      "href": "/tra-cuu-hoa-don-dien-tu-nhu-the-nao-cach-tra-cuu-nhanh-tu-phan-mem-ban-hang"
+    },
+    {
+      "label": "Team Care - Đi đầu về chất lượng dịch vụ sửa chữa phụ kiện điện thoại, laptop",
+      "href": "/team-care-di-dau-ve-chat-luong-dich-vu-sua-chua-phu-kien-dien-thoai-laptop"
+    },
+    {
+      "label": "Làm thế nào để mở cửa hàng thực phẩm sạch thành công?",
+      "href": "/lam-sao-de-mo-cua-hang-thuc-pham-sach-thanh-cong"
+    },
+    {
+      "label": "AFFILIATE – Chỉ ngồi chơi cũng ra Tiền ?!",
+      "href": "/affiliate-chi-ngoi-choi-cung-ra-tien"
+    },
+    {
+      "label": "Cửa hàng Minh Tuấn MOBILE – Chinh phục khách hàng bằng cái tâm",
+      "href": "/minh-tuan-mobile-chinh-phuc-khach-hang-bang-cai-tam"
+    },
+    {
+      "label": "ĐAM MÊ GÓI TRONG TỪNG SỢI MÌ VÀ NỖI LO MỞ RỘNG KINH DOANH",
+      "href": "/dam-me-goi-trong-tung-soi-mi-va-noi-lo-mo-rong-kinh-doanh"
+    },
+    {
+      "label": "Tổng hợp link kháng tài khoản quảng cáo Facebook bị vô hiệu hóa/hạn chế 2021",
+      "href": "/tong-hop-link-khang-tai-khoan-quang-cao-chuan-nhat-2020"
+    },
+    {
+      "label": "3 Phần mềm tạo Website bán hàng miễn phí phổ biến nhất hiện nay",
+      "href": "/3-phan-mem-quan-ly-tao-website-ban-hang-mien-phi-pho-bien-nhat"
+    },
+    {
+      "label": "Máy in hóa đơn - Máy in bill chính hãng, giá tốt, tặng kèm 1 năm bảo hành",
+      "href": "/may-in-hoa-don-may-in-bill-chinh-hang"
+    },
+    {
+      "label": "Review phần mềm quản lý bán hàng tốt nhất 2024",
+      "href": "/review-phan-mem-quan-ly-ban-hang-tot-nhat-2022"
+    },
+    {
+      "label": "Máy bán hàng cầm tay dành cho quán cafe - In bill nhanh chóng, tính tiền tiện lợi",
+      "href": "/may-ban-hang-cam-tay-danh-cho-quan-cafe"
+    },
+    {
+      "label": "Tặng ngay máy in hóa đơn khi mua phần mềm KiotViet gói chuyên nghiệp",
+      "href": "/tang-ngay-may-in-hoa-don-khi-mua-phan-mem-kiotviet-goi-chuyen-nghiep"
+    },
+    {
+      "label": "Giảm ngay 5.370.000đ khi mua combo 3 năm KiotViet chuyên nghiệp & máy POS 2 màn hình",
+      "href": "/uu-dai-giam-gia-may-ban-hang-cam-ung-hai-man-hinh-khi-mua-phan-mem-kiotviet"
+    },
+    {
+      "label": "Giảm ngay 5.670.000đ khi mua combo máy POS 1 màn hình & 3 năm phần mềm KiotViet",
+      "href": "/uu-dai-giam-gia-khi-mua-combo-may-pos-1-man-hinh-3-nam-phan-mem-kiotviet"
+    },
+    {
+      "label": "Bí quyết tránh thất thoát doanh thu mùa cao điểm",
+      "href": "/bi-quyet-tranh-that-thoat-doanh-thu-mua-cao-diem"
+    },
+    {
+      "label": "Tìm hiểu ngay phiên bản KiotViet dành riêng cho cửa hàng của bạn",
+      "href": "/ldp"
+    },
+    {
+      "label": "Điều khoản & chính sách sử dụng",
+      "href": "/dieu-khoan-su-dung/"
+    },
+    {
+      "label": "Liên hệ",
+      "href": "/lien-he"
+    },
+    {
+      "label": "Câu hỏi thường gặp",
+      "href": "/ho-tro/#faqs"
+    },
+    {
+      "label": "Wiki KiotViet",
+      "href": "/wiki-ki-ot-viet/"
+    },
+    {
+      "label": "Hướng dẫn sử dụng",
+      "href": "/huong-dan-su-dung-kiotviet/"
+    },
+    {
+      "label": "Thời trang",
+      "href": "/phan-mem-ban-hang-thoi-trang/"
+    },
+    {
+      "label": "Bar - Cafe, Nhà hàng Karaoke & Billiards",
+      "href": "/bar-cafe-nha-hang/"
+    },
+    {
+      "label": "Tạp hóa & Siêu thị mini",
+      "href": "/phan-mem-ban-hang-tap-hoa/"
+    },
+    {
+      "label": "Điện thoại & Điện máy",
+      "href": "/dien-thoai-dien-may/"
+    },
+    {
+      "label": "Nhà nghỉ, Khách sạn, Homestay & Villa",
+      "href": "/nha-nghi-khach-san-homestay-villa/"
+    },
+    {
+      "label": "Hair Salon, Nails, Massage & Spa",
+      "href": "/spa-salon-massage-nails/"
+    },
+    {
+      "label": "Mẹ & Bé",
+      "href": "/me-be/"
+    },
+    {
+      "label": "phần mềm bán hàng siêu thị mini",
+      "href": "/phan-mem-ban-hang-sieu-thi-mini/"
+    },
+    {
+      "label": "Nhà thuốc",
+      "href": "/phan-mem-quan-ly-nha-thuoc/"
+    },
+    {
+      "label": "Vật liệu xây dựng",
+      "href": "/vat-lieu-xay-dung/"
+    },
+    {
+      "label": "Mỹ phẩm",
+      "href": "/phan-mem-quan-ly-ban-hang-my-pham/"
+    },
+    {
+      "label": "Xe, Máy móc & Linh kiện Sửa chữa",
+      "href": "/linh-kien-may-moc/"
+    },
+    {
+      "label": "Nội thất & Gia dụng",
+      "href": "/noi-that/"
+    },
+    {
+      "label": "Nông sản & Thực phẩm",
+      "href": "/nong-san-thuc-pham/"
+    },
+    {
+      "label": "Sách & Văn phòng phẩm",
+      "href": "/sach-van-phong-pham/"
+    },
+    {
+      "label": "Hoa & Quà tặng",
+      "href": "/hoa-qua-tang/"
+    },
+    {
+      "label": "Ngành hàng bán lẻ",
+      "href": "/nganh-hang-ban-le/"
+    },
+    {
+      "label": "unlabeled",
+      "href": "/"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 210 10% 9%;
+    --card: 0 0% 100%;
+    --card-foreground: 210 10% 9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 10% 9%;
+    --primary: 214 100% 48%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 217 18% 94%;
+    --secondary-foreground: 210 10% 9%;
+    --muted: 217 18% 94%;
+    --muted-foreground: 215 11% 38%;
+    --accent: 215 100% 96%;
+    --accent-foreground: 214 100% 32%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 216 15% 90%;
+    --input: 216 15% 90%;
+    --ring: 214 100% 48%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 211 100% 6%;
+    --foreground: 0 0% 98%;
+    --card: 211 100% 8%;
+    --card-foreground: 0 0% 98%;
+    --primary: 214 100% 52%;
+    --primary-foreground: 0 0% 100%;
+    --muted: 211 40% 14%;
+    --muted-foreground: 213 15% 70%;
+    --accent: 211 40% 14%;
+    --border: 211 30% 16%;
+    --input: 211 30% 16%;
+  }
+
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family:
+      'Inter',
+      'Google Sans Flex',
+      -apple-system,
+      'Segoe UI',
+      system-ui,
+      sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  /* ---- Admin / KiotViet-man design tokens ---- */
+  .kv-admin {
+    --background: 0 0% 100%;
+    --foreground: 217 11% 9%;
+    --card: 0 0% 100%;
+    --card-foreground: 217 11% 9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 217 11% 9%;
+    --primary: 214 100% 48%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 216 18% 94%;
+    --secondary-foreground: 217 11% 9%;
+    --muted: 216 18% 94%;
+    --muted-foreground: 214 8% 37%;
+    --accent: 214 100% 96%;
+    --accent-foreground: 214 100% 32%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 216 15% 90%;
+    --input: 216 15% 90%;
+    --ring: 214 100% 48%;
+    --radius: 0.5rem;
+    color: rgb(21 23 26);
+    font-family: 'Inter', Roboto, -apple-system, 'Segoe UI', sans-serif;
+    --sidebar-width: 260px;
+    --header-height: 56px;
+  }
+
+  .kv-admin body,
+  .kv-admin .kv-admin-shell {
+    background-color: #f5f6f7;
+  }
+
+  .kv-admin .kv-scroll::-webkit-scrollbar {
+    width: 4px;
+  }
+  .kv-admin .kv-scroll::-webkit-scrollbar-thumb {
+    border-radius: 9999px;
+    background: rgb(0 0 0 / 0.08);
+  }
+  .kv-admin .kv-scroll::-webkit-scrollbar-thumb:hover {
+    background: rgb(0 0 0 / 0.16);
+  }
+
+  .kv-admin-success {
+    color: #00b63e;
+  }
+
+  @keyframes kv-fade-in {
+    from { opacity: 0; transform: translateY(-4px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .kv-admin .kv-fade-in {
+    animation: kv-fade-in 0.2s ease-out;
+  }
+
+  @keyframes kv-slide-down {
+    from { opacity: 0; transform: translateY(-8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .kv-admin .kv-slide-down {
+    animation: kv-slide-down 0.2s ease-out;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family:
+      'Google Sans Flex',
+      'Inter',
+      -apple-system,
+      'Segoe UI',
+      system-ui,
+      sans-serif;
+  }
+}
+
+@layer components {
+  .kv-container {
+    @apply mx-auto w-full max-w-[1200px] px-4 sm:px-6 lg:px-8;
+  }
+
+  .kv-btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50;
+  }
+
+  .kv-btn--primary {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90;
+    box-shadow: 0 4px 40px 0 rgb(0 41 87 / 0.08);
+  }
+
+  .kv-btn--md {
+    @apply h-11 px-6 text-[14px];
+  }
+
+  .kv-btn--lg {
+    @apply h-12 px-8 text-[16px] rounded-xl;
+  }
+
+  .kv-input {
+    @apply h-11 rounded-lg border border-input bg-background px-3.5 text-[14px] text-foreground outline-none transition-colors placeholder:text-muted-foreground/60 focus:border-primary focus:ring-2 focus:ring-primary/20;
+  }
+
+  .kv-card {
+    @apply rounded-xl border bg-card;
+    box-shadow: 0 4px 80px 0 rgb(0 41 87 / 0.08);
+  }
+
+  .kv-section {
+    @apply py-14 sm:py-20;
+  }
+
+  .kv-section-title__h {
+    @apply text-[28px] font-semibold leading-tight tracking-tight sm:text-[32px] lg:text-[40px];
+  }
+
+  .kv-section-title__sub {
+    @apply mt-3 text-[15px] leading-relaxed text-muted-foreground sm:text-[16px];
+  }
+
+  .kv-docs-page {
+    @apply bg-muted/40;
+  }
+
+  .docs-scroll::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .docs-scroll::-webkit-scrollbar-thumb {
+    border-radius: 9999px;
+    background: rgb(0 0 0 / 0.14);
+  }
+}

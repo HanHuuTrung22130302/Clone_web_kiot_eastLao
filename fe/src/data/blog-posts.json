@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Phí dịch vụ",
+    "slug": "phi-dich-vu",
+    "href": "/phi-dich-vu"
+  },
+  {
+    "title": "Khách hàng KiotViet",
+    "slug": "khach-hang",
+    "href": "/khach-hang/"
+  },
+  {
+    "title": "Giới thiệu khách hàng",
+    "slug": "gioithieukhachhang",
+    "href": "/gioithieukhachhang/"
+  },
+  {
+    "title": "Hỗ trợ",
+    "slug": "ho-tro",
+    "href": "/ho-tro/"
+  },
+  {
+    "title": "Về KiotViet",
+    "slug": "ve-ki-ot-viet",
+    "href": "/ve-ki-ot-viet/"
+  },
+  {
+    "title": "Đăng ký",
+    "slug": "dang-ky",
+    "href": "/dang-ky"
+  },
+  {
+    "title": "Tạp hóa & Siêu thị",
+    "slug": "phan-mem-ban-hang-tap-hoa",
+    "href": "/phan-mem-ban-hang-tap-hoa"
+  },
+  {
+    "title": "Điện tử & Điện máy",
+    "slug": "dien-thoai-dien-may",
+    "href": "/dien-thoai-dien-may"
+  },
+  {
+    "title": "Nông sản & Thực phẩm",
+    "slug": "nong-san-thuc-pham",
+    "href": "/nong-san-thuc-pham"
+  },
+  {
+    "title": "Xe & máy móc",
+    "slug": "linh-kien-may-moc",
+    "href": "/linh-kien-may-moc"
+  },
+  {
+    "title": "Nội thất & Gia dụng",
+    "slug": "noi-that",
+    "href": "/noi-that"
+  },
+  {
+    "title": "Sách & Văn phòng phẩm",
+    "slug": "sach-van-phong-pham",
+    "href": "/sach-van-phong-pham"
+  },
+  {
+    "title": "Khác",
+    "slug": "cua-hang-ban-buon-ban-le",
+    "href": "/cua-hang-ban-buon-ban-le"
+  },
+  {
+    "title": "Thời trang",
+    "slug": "phan-mem-ban-hang-thoi-trang",
+    "href": "/phan-mem-ban-hang-thoi-trang"
+  },
+  {
+    "title": "Vật liệu xây dựng",
+    "slug": "vat-lieu-xay-dung",
+    "href": "/vat-lieu-xay-dung"
+  },
+  {
+    "title": "Nhà thuốc",
+    "slug": "phan-mem-quan-ly-nha-thuoc",
+    "href": "/phan-mem-quan-ly-nha-thuoc"
+  },
+  {
+    "title": "Mỹ phẩm",
+    "slug": "phan-mem-quan-ly-ban-hang-my-pham",
+    "href": "/phan-mem-quan-ly-ban-hang-my-pham"
+  },
+  {
+    "title": "Mẹ & Bé",
+    "slug": "me-be",
+    "href": "/me-be"
+  },
+  {
+    "title": "Hoa & Quà tặng",
+    "slug": "hoa-qua-tang",
+    "href": "/hoa-qua-tang"
+  },
+  {
+    "title": "Quán ăn",
+    "slug": "quan-ly-quan-an",
+    "href": "/quan-ly-quan-an"
+  },
+  {
+    "title": "Cafe, Trà sữa",
+    "slug": "quan-ly-cafe-tra-sua",
+    "href": "/quan-ly-cafe-tra-sua"
+  },
+  {
+    "title": "Karaoke, Bida",
+    "slug": "quan-ly-karaoke-bida",
+    "href": "/quan-ly-karaoke-bida"
+  },
+  {
+    "title": "Bar, Pub & Club",
+    "slug": "quan-ly-bar-pub-club",
+    "href": "/quan-ly-bar-pub-club"
+  },
+  {
+    "title": "Căng tin & Trạm dừng nghỉ",
+    "slug": "ban-hang-cang-tin-tram-dung-nghi",
+    "href": "/ban-hang-cang-tin-tram-dung-nghi"
+  }
+]
